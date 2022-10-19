@@ -1,0 +1,727 @@
+,player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position
+0,Artemi Panarin (LW),New York Rangers,4,2,8,10,2.50,2,-1,https://www.eliteprospects.com/player/24664/artemi-panarin,2022-2021,nhl,Artemi Panarin ,LW
+1,Mika Zibanejad (C),New York Rangers,4,4,4,8,2.00,0,2,https://www.eliteprospects.com/player/23856/mika-zibanejad,2022-2021,nhl,Mika Zibanejad ,C
+2,David Pastrnak (RW),Boston Bruins,4,3,5,8,2.00,4,1,https://www.eliteprospects.com/player/130383/david-pastrnak,2022-2021,nhl,David Pastrnak ,RW
+3,Steven Stamkos (C/W),Tampa Bay Lightning,4,6,1,7,1.75,6,1,https://www.eliteprospects.com/player/11113/steven-stamkos,2022-2021,nhl,Steven Stamkos ,C/W
+4,Gabriel Vilardi (C),Los Angeles Kings,5,4,3,7,1.40,2,3,https://www.eliteprospects.com/player/286867/gabriel-vilardi,2022-2021,nhl,Gabriel Vilardi ,C
+5,Nathan MacKinnon (C/RW),Colorado Avalanche,3,2,5,7,2.33,2,4,https://www.eliteprospects.com/player/99204/nathan-mackinnon,2022-2021,nhl,Nathan MacKinnon ,C/RW
+6,Valeri Nichushkin (RW),Colorado Avalanche,3,4,2,6,2.00,0,-1,https://www.eliteprospects.com/player/108661/valeri-nichushkin,2022-2021,nhl,Valeri Nichushkin ,RW
+7,Connor McDavid (C),Edmonton Oilers,3,4,2,6,2.00,4,0,https://www.eliteprospects.com/player/183442/connor-mcdavid,2022-2021,nhl,Connor McDavid ,C
+8,Adrian Kempe (C/W),Los Angeles Kings,5,4,2,6,1.20,4,1,https://www.eliteprospects.com/player/86313/adrian-kempe,2022-2021,nhl,Adrian Kempe ,C/W
+9,Elias Pettersson (C/W),Vancouver Canucks,4,3,3,6,1.50,0,1,https://www.eliteprospects.com/player/266336/elias-pettersson,2022-2021,nhl,Elias Pettersson ,C/W
+10,Troy Terry (RW/C),Anaheim Ducks,4,3,3,6,1.50,2,1,https://www.eliteprospects.com/player/234046/troy-terry,2022-2021,nhl,Troy Terry ,RW/C
+11,Patrice Bergeron (C),Boston Bruins,4,3,3,6,1.50,2,6,https://www.eliteprospects.com/player/9079/patrice-bergeron,2022-2021,nhl,Patrice Bergeron ,C
+12,Sidney Crosby (C),Pittsburgh Penguins,3,2,4,6,2.00,2,1,https://www.eliteprospects.com/player/6146/sidney-crosby,2022-2021,nhl,Sidney Crosby ,C
+13,Leon Draisaitl (C/W),Edmonton Oilers,3,1,5,6,2.00,2,0,https://www.eliteprospects.com/player/71913/leon-draisaitl,2022-2021,nhl,Leon Draisaitl ,C/W
+14,Mikko Rantanen (W/C),Colorado Avalanche,3,1,5,6,2.00,2,1,https://www.eliteprospects.com/player/91186/mikko-rantanen,2022-2021,nhl,Mikko Rantanen ,W/C
+15,Anze Kopitar (C),Los Angeles Kings,5,1,5,6,1.20,0,-1,https://www.eliteprospects.com/player/4233/anze-kopitar,2022-2021,nhl,Anze Kopitar ,C
+16,Mason Marchment (LW/C),Dallas Stars,3,3,2,5,1.67,0,2,https://www.eliteprospects.com/player/208693/mason-marchment,2022-2021,nhl,Mason Marchment ,LW/C
+17,Andrei Svechnikov (RW/LW),Carolina Hurricanes,3,3,2,5,1.67,0,3,https://www.eliteprospects.com/player/328556/andrei-svechnikov,2022-2021,nhl,Andrei Svechnikov ,RW/LW
+18,Kirill Kaprizov (LW),Minnesota Wild,3,3,2,5,1.67,4,-8,https://www.eliteprospects.com/player/265645/kirill-kaprizov,2022-2021,nhl,Kirill Kaprizov ,LW
+19,A.J. Greer (LW),Boston Bruins,4,3,2,5,1.25,2,3,https://www.eliteprospects.com/player/151125/a.j.-greer,2022-2021,nhl,A.J. Greer ,LW
+20,Bryan Rust (RW/LW),Pittsburgh Penguins,3,2,3,5,1.67,0,3,https://www.eliteprospects.com/player/20708/bryan-rust,2022-2021,nhl,Bryan Rust ,RW/LW
+21,Jake DeBrusk (LW),Boston Bruins,3,2,3,5,1.67,0,5,https://www.eliteprospects.com/player/84242/jake-debrusk,2022-2021,nhl,Jake DeBrusk ,LW
+22,Roope Hintz (C/LW),Dallas Stars,3,2,3,5,1.67,0,4,https://www.eliteprospects.com/player/92117/roope-hintz,2022-2021,nhl,Roope Hintz ,C/LW
+23,Matt Boldy (LW/RW),Minnesota Wild,3,2,3,5,1.67,0,1,https://www.eliteprospects.com/player/375501/matt-boldy,2022-2021,nhl,Matt Boldy ,LW/RW
+24,Shayne Gostisbehere (D),Arizona Coyotes,3,2,3,5,1.67,2,-4,https://www.eliteprospects.com/player/122787/shayne-gostisbehere,2022-2021,nhl,Shayne Gostisbehere ,D
+25,Mats Zuccarello (RW/LW),Minnesota Wild,3,2,3,5,1.67,2,-7,https://www.eliteprospects.com/player/10881/mats-zuccarello,2022-2021,nhl,Mats Zuccarello ,RW/LW
+26,Martin Necas (C/RW),Carolina Hurricanes,3,2,3,5,1.67,4,5,https://www.eliteprospects.com/player/237071/martin-necas,2022-2021,nhl,Martin Necas ,C/RW
+27,Alexander Ovechkin (LW),Washington Capitals,4,2,3,5,1.25,0,-2,https://www.eliteprospects.com/player/4230/alexander-ovechkin,2022-2021,nhl,Alexander Ovechkin ,LW
+28,Vincent Trocheck (C),New York Rangers,4,2,3,5,1.25,2,-1,https://www.eliteprospects.com/player/45560/vincent-trocheck,2022-2021,nhl,Vincent Trocheck ,C
+29,Alex Iafallo (LW/C),Los Angeles Kings,4,2,3,5,1.25,2,2,https://www.eliteprospects.com/player/121859/alex-iafallo,2022-2021,nhl,Alex Iafallo ,LW/C
+30,Nick Suzuki (C),Montréal Canadiens,4,2,3,5,1.25,2,1,https://www.eliteprospects.com/player/300436/nick-suzuki,2022-2021,nhl,Nick Suzuki ,C
+31,André Burakovsky (LW/RW),Seattle Kraken,4,2,3,5,1.25,2,-3,https://www.eliteprospects.com/player/38705/andre-burakovsky,2022-2021,nhl,André Burakovsky ,LW/RW
+32,David Krejci (C),Boston Bruins,4,2,3,5,1.25,2,-4,https://www.eliteprospects.com/player/9226/david-krejci,2022-2021,nhl,David Krejci ,C
+33,Jason Robertson (LW),Dallas Stars,3,1,4,5,1.67,0,4,https://www.eliteprospects.com/player/201455/jason-robertson,2022-2021,nhl,Jason Robertson ,LW
+34,John Tavares (C),Toronto Maple Leafs,4,1,4,5,1.25,0,0,https://www.eliteprospects.com/player/9223/john-tavares,2022-2021,nhl,John Tavares ,C
+35,Adam Fox (D),New York Rangers,4,1,4,5,1.25,2,0,https://www.eliteprospects.com/player/248380/adam-fox,2022-2021,nhl,Adam Fox ,D
+36,Kevin Fiala (W/C),Los Angeles Kings,5,1,4,5,1.00,4,0,https://www.eliteprospects.com/player/87971/kevin-fiala,2022-2021,nhl,Kevin Fiala ,W/C
+37,Jesper Bratt (LW/RW),New Jersey Devils,3,0,5,5,1.67,2,1,https://www.eliteprospects.com/player/117698/jesper-bratt,2022-2021,nhl,Jesper Bratt ,LW/RW
+38,Nikita Kucherov (RW),Tampa Bay Lightning,4,0,5,5,1.25,0,-3,https://www.eliteprospects.com/player/77237/nikita-kucherov,2022-2021,nhl,Nikita Kucherov ,RW
+39,Mikael Granlund (C),Nashville Predators,5,0,5,5,1.00,2,-4,https://www.eliteprospects.com/player/16037/mikael-granlund,2022-2021,nhl,Mikael Granlund ,C
+40,Nino Niederreiter (RW/LW),Nashville Predators,5,4,0,4,0.80,2,1,https://www.eliteprospects.com/player/17679/nino-niederreiter,2022-2021,nhl,Nino Niederreiter ,RW/LW
+41,Oliver Wahlstrom (RW),New York Islanders,2,3,1,4,2.00,0,5,https://www.eliteprospects.com/player/241370/oliver-wahlstrom,2022-2021,nhl,Oliver Wahlstrom ,RW
+42,Travis Konecny (RW/LW),Philadelphia Flyers,3,3,1,4,1.33,2,2,https://www.eliteprospects.com/player/205148/travis-konecny,2022-2021,nhl,Travis Konecny ,RW/LW
+43,David Perron (LW/RW),Detroit Red Wings,3,3,1,4,1.33,2,1,https://www.eliteprospects.com/player/11123/david-perron,2022-2021,nhl,David Perron ,LW/RW
+44,Rasmus Dahlin (D),Buffalo Sabres,3,3,1,4,1.33,2,5,https://www.eliteprospects.com/player/310545/rasmus-dahlin,2022-2021,nhl,Rasmus Dahlin ,D
+45,Yevgeni Malkin (C),Pittsburgh Penguins,3,3,1,4,1.33,4,4,https://www.eliteprospects.com/player/4231/yevgeni-malkin,2022-2021,nhl,Yevgeni Malkin ,C
+46,Nick Ritchie (LW),Arizona Coyotes,3,3,1,4,1.33,8,-1,https://www.eliteprospects.com/player/99036/nick-ritchie,2022-2021,nhl,Nick Ritchie ,LW
+47,William Nylander (RW),Toronto Maple Leafs,4,3,1,4,1.00,0,0,https://www.eliteprospects.com/player/38703/william-nylander,2022-2021,nhl,William Nylander ,RW
+48,Cole Caufield (LW/RW),Montréal Canadiens,4,3,1,4,1.00,0,-1,https://www.eliteprospects.com/player/316168/cole-caufield,2022-2021,nhl,Cole Caufield ,LW/RW
+49,Bo Horvat (C),Vancouver Canucks,4,3,1,4,1.00,2,-1,https://www.eliteprospects.com/player/117012/bo-horvat,2022-2021,nhl,Bo Horvat ,C
+50,Matt Roy (D),Los Angeles Kings,5,3,1,4,0.80,0,-2,https://www.eliteprospects.com/player/191271/matt-roy,2022-2021,nhl,Matt Roy ,D
+51,Noah Dobson (D),New York Islanders,3,2,2,4,1.33,0,1,https://www.eliteprospects.com/player/275797/noah-dobson,2022-2021,nhl,Noah Dobson ,D
+52,Colin White (C/RW),Florida Panthers,3,2,2,4,1.33,0,4,https://www.eliteprospects.com/player/183810/colin-white,2022-2021,nhl,Colin White ,C/RW
+53,Brady Tkachuk (LW),Ottawa Senators,3,2,2,4,1.33,0,0,https://www.eliteprospects.com/player/201473/brady-tkachuk,2022-2021,nhl,Brady Tkachuk ,LW
+54,Jake Guentzel (W/C),Pittsburgh Penguins,3,2,2,4,1.33,0,2,https://www.eliteprospects.com/player/199870/jake-guentzel,2022-2021,nhl,Jake Guentzel ,W/C
+55,Sebastian Aho (C/LW),Carolina Hurricanes,3,2,2,4,1.33,2,2,https://www.eliteprospects.com/player/152111/sebastian-aho,2022-2021,nhl,Sebastian Aho ,C/LW
+56,Artturi Lehkonen (LW),Colorado Avalanche,3,2,2,4,1.33,6,0,https://www.eliteprospects.com/player/43584/artturi-lehkonen,2022-2021,nhl,Artturi Lehkonen ,LW
+57,Matthew Tkachuk (LW/RW),Florida Panthers,3,2,2,4,1.33,8,-2,https://www.eliteprospects.com/player/233030/matthew-tkachuk,2022-2021,nhl,Matthew Tkachuk ,LW/RW
+58,Johnny Gaudreau (LW),Columbus Blue Jackets,4,2,2,4,1.00,0,3,https://www.eliteprospects.com/player/88391/johnny-gaudreau,2022-2021,nhl,Johnny Gaudreau ,LW
+59,Nazem Kadri (C),Calgary Flames,3,1,3,4,1.33,0,0,https://www.eliteprospects.com/player/14728/nazem-kadri,2022-2021,nhl,Nazem Kadri ,C
+60,Dylan Larkin (C),Detroit Red Wings,3,1,3,4,1.33,0,6,https://www.eliteprospects.com/player/177693/dylan-larkin,2022-2021,nhl,Dylan Larkin ,C
+61,Tyler Seguin (C/RW),Dallas Stars,3,1,3,4,1.33,0,2,https://www.eliteprospects.com/player/23807/tyler-seguin,2022-2021,nhl,Tyler Seguin ,C/RW
+62,Olli Määttä (D),Detroit Red Wings,3,1,3,4,1.33,0,3,https://www.eliteprospects.com/player/43543/olli-maatta,2022-2021,nhl,Olli Määttä ,D
+63,Drake Batherson (RW/C),Ottawa Senators,3,1,3,4,1.33,2,1,https://www.eliteprospects.com/player/195192/drake-batherson,2022-2021,nhl,Drake Batherson ,RW/C
+64,Tony DeAngelo (D),Philadelphia Flyers,3,1,3,4,1.33,2,4,https://www.eliteprospects.com/player/89818/tony-deangelo,2022-2021,nhl,Tony DeAngelo ,D
+65,James van Riemsdyk (LW),Philadelphia Flyers,3,1,3,4,1.33,4,3,https://www.eliteprospects.com/player/9324/james-van-riemsdyk,2022-2021,nhl,James van Riemsdyk ,LW
+66,Oskar Sundqvist (C),Detroit Red Wings,3,1,3,4,1.33,4,0,https://www.eliteprospects.com/player/41621/oskar-sundqvist,2022-2021,nhl,Oskar Sundqvist ,C
+67,Anders Lee (LW),New York Islanders,3,1,3,4,1.33,6,3,https://www.eliteprospects.com/player/19068/anders-lee,2022-2021,nhl,Anders Lee ,LW
+68,Matty Beniers (C),Seattle Kraken,4,1,3,4,1.00,0,-2,https://www.eliteprospects.com/player/201739/matty-beniers,2022-2021,nhl,Matty Beniers ,C
+69,Dylan Strome (C/RW),Washington Capitals,4,1,3,4,1.00,0,-3,https://www.eliteprospects.com/player/228107/dylan-strome,2022-2021,nhl,Dylan Strome ,C/RW
+70,Mitchell Marner (RW),Toronto Maple Leafs,4,1,3,4,1.00,4,0,https://www.eliteprospects.com/player/223194/mitchell-marner,2022-2021,nhl,Mitchell Marner ,RW
+71,Calen Addison (D),Minnesota Wild,3,0,4,4,1.33,0,-5,https://www.eliteprospects.com/player/278861/calen-addison,2022-2021,nhl,Calen Addison ,D
+72,Kevin Hayes (C),Philadelphia Flyers,3,0,4,4,1.33,0,-1,https://www.eliteprospects.com/player/40243/kevin-hayes,2022-2021,nhl,Kevin Hayes ,C
+73,Brock Nelson (C),New York Islanders,3,0,4,4,1.33,4,3,https://www.eliteprospects.com/player/74997/brock-nelson,2022-2021,nhl,Brock Nelson ,C
+74,Cale Makar (D),Colorado Avalanche,3,0,4,4,1.33,4,1,https://www.eliteprospects.com/player/199655/cale-makar,2022-2021,nhl,Cale Makar ,D
+75,Morgan Rielly (D),Toronto Maple Leafs,4,0,4,4,1.00,0,-5,https://www.eliteprospects.com/player/41184/morgan-rielly,2022-2021,nhl,Morgan Rielly ,D
+76,Quinn Hughes (D),Vancouver Canucks,4,0,4,4,1.00,2,1,https://www.eliteprospects.com/player/201671/quinn-hughes,2022-2021,nhl,Quinn Hughes ,D
+77,Connor Clifton (D),Boston Bruins,4,0,4,4,1.00,5,3,https://www.eliteprospects.com/player/131370/connor-clifton,2022-2021,nhl,Connor Clifton ,D
+78,Yevgeni Kuznetsov (C),Washington Capitals,4,0,4,4,1.00,6,2,https://www.eliteprospects.com/player/34777/yevgeni-kuznetsov,2022-2021,nhl,Yevgeni Kuznetsov ,C
+79,Mark Scheifele (C),Winnipeg Jets,2,3,0,3,1.50,0,0,https://www.eliteprospects.com/player/75379/mark-scheifele,2022-2021,nhl,Mark Scheifele ,C
+80,Jonathan Marchessault (LW/RW),Vegas Golden Knights,4,3,0,3,0.75,0,1,https://www.eliteprospects.com/player/32872/jonathan-marchessault,2022-2021,nhl,Jonathan Marchessault ,LW/RW
+81,Conor Sheary (LW/RW),Washington Capitals,4,3,0,3,0.75,4,2,https://www.eliteprospects.com/player/94484/conor-sheary,2022-2021,nhl,Conor Sheary ,LW/RW
+82,Alex Tuch (RW/C),Buffalo Sabres,3,2,1,3,1.00,0,4,https://www.eliteprospects.com/player/178526/alex-tuch,2022-2021,nhl,Alex Tuch ,RW/C
+83,Claude Giroux (W/C),Ottawa Senators,3,2,1,3,1.00,0,-3,https://www.eliteprospects.com/player/10437/claude-giroux,2022-2021,nhl,Claude Giroux ,W/C
+84,Miro Heiskanen (D),Dallas Stars,3,2,1,3,1.00,2,5,https://www.eliteprospects.com/player/250075/miro-heiskanen,2022-2021,nhl,Miro Heiskanen ,D
+85,JJ Peterka (W/C),Buffalo Sabres,3,2,1,3,1.00,2,1,https://www.eliteprospects.com/player/381855/jj-peterka,2022-2021,nhl,JJ Peterka ,W/C
+86,Morgan Frost (C),Philadelphia Flyers,3,2,1,3,1.00,2,3,https://www.eliteprospects.com/player/317025/morgan-frost,2022-2021,nhl,Morgan Frost ,C
+87,Darnell Nurse (D),Edmonton Oilers,3,2,1,3,1.00,4,1,https://www.eliteprospects.com/player/97352/darnell-nurse,2022-2021,nhl,Darnell Nurse ,D
+88,Dougie Hamilton (D),New Jersey Devils,3,2,1,3,1.00,4,1,https://www.eliteprospects.com/player/45596/dougie-hamilton,2022-2021,nhl,Dougie Hamilton ,D
+89,Joel Eriksson Ek (C),Minnesota Wild,3,2,1,3,1.00,6,-3,https://www.eliteprospects.com/player/139633/joel-eriksson-ek,2022-2021,nhl,Joel Eriksson Ek ,C
+90,Sam Lafferty (C/LW),Chicago Blackhawks,3,2,1,3,1.00,7,1,https://www.eliteprospects.com/player/259043/sam-lafferty,2022-2021,nhl,Sam Lafferty ,C/LW
+91,Jaden Schwartz (LW),Seattle Kraken,4,2,1,3,0.75,0,0,https://www.eliteprospects.com/player/33907/jaden-schwartz,2022-2021,nhl,Jaden Schwartz ,LW
+92,Yevgeni Svechnikov (RW/LW),San Jose Sharks,4,2,1,3,0.75,0,1,https://www.eliteprospects.com/player/168679/yevgeni-svechnikov,2022-2021,nhl,Yevgeni Svechnikov ,RW/LW
+93,Trevor Zegras (C),Anaheim Ducks,4,2,1,3,0.75,0,-3,https://www.eliteprospects.com/player/424453/trevor-zegras,2022-2021,nhl,Trevor Zegras ,C
+94,Nick Foligno (LW/RW),Boston Bruins,4,2,1,3,0.75,2,-1,https://www.eliteprospects.com/player/10675/nick-foligno,2022-2021,nhl,Nick Foligno ,LW/RW
+95,J.T. Miller (C/W),Vancouver Canucks,4,2,1,3,0.75,2,-4,https://www.eliteprospects.com/player/38624/j.t.-miller,2022-2021,nhl,J.T. Miller ,C/W
+96,Chris Kreider (LW),New York Rangers,4,2,1,3,0.75,2,1,https://www.eliteprospects.com/player/37998/chris-kreider,2022-2021,nhl,Chris Kreider ,LW
+97,Filip Forsberg (W/C),Nashville Predators,5,2,1,3,0.60,0,-3,https://www.eliteprospects.com/player/29626/filip-forsberg,2022-2021,nhl,Filip Forsberg ,W/C
+98,Jason Dickinson (C/LW),Chicago Blackhawks,1,1,2,3,3.00,0,1,https://www.eliteprospects.com/player/117018/jason-dickinson,2022-2021,nhl,Jason Dickinson ,C/LW
+99,Jason Zucker (LW/RW),Pittsburgh Penguins,3,1,2,3,1.00,0,4,https://www.eliteprospects.com/player/20726/jason-zucker,2022-2021,nhl,Jason Zucker ,LW/RW
+100,Dominik Kubalík (LW),Detroit Red Wings,3,1,2,3,1.00,0,2,https://www.eliteprospects.com/player/101221/dominik-kubalik,2022-2021,nhl,Dominik Kubalík ,LW
+101,Joe Pavelski (C/RW),Dallas Stars,3,1,2,3,1.00,0,4,https://www.eliteprospects.com/player/10372/joe-pavelski,2022-2021,nhl,Joe Pavelski ,C/RW
+102,Jason Zucker (LW/RW),Pittsburgh Penguins,3,1,2,3,1.00,0,4,https://www.eliteprospects.com/player/20726/jason-zucker,2022-2021,nhl,Jason Zucker ,LW/RW
+103,Danton Heinen (W/C),Pittsburgh Penguins,3,1,2,3,1.00,0,2,https://www.eliteprospects.com/player/105821/danton-heinen,2022-2021,nhl,Danton Heinen ,W/C
+104,Gustav Forsling (D),Florida Panthers,3,1,2,3,1.00,2,3,https://www.eliteprospects.com/player/86366/gustav-forsling,2022-2021,nhl,Gustav Forsling ,D
+105,Jeff Carter (C),Pittsburgh Penguins,3,1,2,3,1.00,2,1,https://www.eliteprospects.com/player/8813/jeff-carter,2022-2021,nhl,Jeff Carter ,C
+106,Michael Rasmussen (C),Detroit Red Wings,3,1,2,3,1.00,2,1,https://www.eliteprospects.com/player/286738/michael-rasmussen,2022-2021,nhl,Michael Rasmussen ,C
+107,Michael Stone (D),Calgary Flames,3,1,2,3,1.00,2,2,https://www.eliteprospects.com/player/11708/michael-stone,2022-2021,nhl,Michael Stone ,D
+108,Tim Stützle (LW/C),Ottawa Senators,3,1,2,3,1.00,2,2,https://www.eliteprospects.com/player/348134/tim-stutzle,2022-2021,nhl,Tim Stützle ,LW/C
+109,Rasmus Andersson (D),Calgary Flames,3,1,2,3,1.00,4,0,https://www.eliteprospects.com/player/86137/rasmus-andersson,2022-2021,nhl,Rasmus Andersson ,D
+110,Pavel Zacha (C/LW),Boston Bruins,4,1,2,3,0.75,0,-3,https://www.eliteprospects.com/player/130786/pavel-zacha,2022-2021,nhl,Pavel Zacha ,C/LW
+111,Jack Eichel (C),Vegas Golden Knights,4,1,2,3,0.75,0,1,https://www.eliteprospects.com/player/191959/jack-eichel,2022-2021,nhl,Jack Eichel ,C
+112,Mark Stone (RW),Vegas Golden Knights,4,1,2,3,0.75,0,2,https://www.eliteprospects.com/player/32806/mark-stone,2022-2021,nhl,Mark Stone ,RW
+113,T.J. Oshie (RW),Washington Capitals,4,1,2,3,0.75,0,1,https://www.eliteprospects.com/player/9209/t.j.-oshie,2022-2021,nhl,T.J. Oshie ,RW
+114,Alexis Lafrenière (LW/RW),New York Rangers,4,1,2,3,0.75,0,1,https://www.eliteprospects.com/player/296697/alexis-lafreniere,2022-2021,nhl,Alexis Lafrenière ,LW/RW
+115,Marcus Johansson (C/LW),Washington Capitals,4,1,2,3,0.75,0,2,https://www.eliteprospects.com/player/6225/marcus-johansson,2022-2021,nhl,Marcus Johansson ,C/LW
+116,Charlie Coyle (C/RW),Boston Bruins,4,1,2,3,0.75,2,1,https://www.eliteprospects.com/player/60251/charlie-coyle,2022-2021,nhl,Charlie Coyle ,C/RW
+117,Ryan Strome (C/RW),Anaheim Ducks,4,1,2,3,0.75,2,-1,https://www.eliteprospects.com/player/44789/ryan-strome,2022-2021,nhl,Ryan Strome ,C/RW
+118,Justin Schultz (D),Seattle Kraken,4,1,2,3,0.75,2,-1,https://www.eliteprospects.com/player/18241/justin-schultz,2022-2021,nhl,Justin Schultz ,D
+119,Arthur Kaliyev (RW/LW),Los Angeles Kings,4,1,2,3,0.75,2,1,https://www.eliteprospects.com/player/316114/arthur-kaliyev,2022-2021,nhl,Arthur Kaliyev ,RW/LW
+120,Erik Karlsson (D),San Jose Sharks,5,1,2,3,0.60,0,-3,https://www.eliteprospects.com/player/9878/erik-karlsson,2022-2021,nhl,Erik Karlsson ,D
+121,Ryan Johansen (C),Nashville Predators,5,1,2,3,0.60,2,1,https://www.eliteprospects.com/player/45512/ryan-johansen,2022-2021,nhl,Ryan Johansen ,C
+122,Eeli Tolvanen (RW/LW),Nashville Predators,5,1,2,3,0.60,2,2,https://www.eliteprospects.com/player/249730/eeli-tolvanen,2022-2021,nhl,Eeli Tolvanen ,RW/LW
+123,Matt Duchene (C/RW),Nashville Predators,5,1,2,3,0.60,16,-1,https://www.eliteprospects.com/player/12571/matt-duchene,2022-2021,nhl,Matt Duchene ,C/RW
+124,Nikolaj Ehlers (LW),Winnipeg Jets,2,0,3,3,1.50,0,0,https://www.eliteprospects.com/player/66581/nikolaj-ehlers,2022-2021,nhl,Nikolaj Ehlers ,LW
+125,Ivan Provorov (D),Philadelphia Flyers,3,0,3,3,1.00,0,5,https://www.eliteprospects.com/player/242584/ivan-provorov,2022-2021,nhl,Ivan Provorov ,D
+126,Jonathan Huberdeau (LW),Calgary Flames,3,0,3,3,1.00,0,-1,https://www.eliteprospects.com/player/45261/jonathan-huberdeau,2022-2021,nhl,Jonathan Huberdeau ,LW
+127,MacKenzie Weegar (D),Calgary Flames,3,0,3,3,1.00,0,0,https://www.eliteprospects.com/player/97908/mackenzie-weegar,2022-2021,nhl,MacKenzie Weegar ,D
+128,Kris Letang (D),Pittsburgh Penguins,3,0,3,3,1.00,0,2,https://www.eliteprospects.com/player/9189/kris-letang,2022-2021,nhl,Kris Letang ,D
+129,Mathew Barzal (C),New York Islanders,3,0,3,3,1.00,2,0,https://www.eliteprospects.com/player/186310/mathew-barzal,2022-2021,nhl,Mathew Barzal ,C
+130,Tyler Johnson (C),Chicago Blackhawks,3,0,3,3,1.00,2,1,https://www.eliteprospects.com/player/12078/tyler-johnson,2022-2021,nhl,Tyler Johnson ,C
+131,J.J. Moser (D),Arizona Coyotes,3,0,3,3,1.00,2,-2,https://www.eliteprospects.com/player/338571/j.j.-moser,2022-2021,nhl,J.J. Moser ,D
+132,Chandler Stephenson (C/LW),Vegas Golden Knights,4,0,3,3,0.75,0,1,https://www.eliteprospects.com/player/60726/chandler-stephenson,2022-2021,nhl,Chandler Stephenson ,C/LW
+133,Victor Hedman (D),Tampa Bay Lightning,4,0,3,3,0.75,0,-2,https://www.eliteprospects.com/player/6007/victor-hedman,2022-2021,nhl,Victor Hedman ,D
+134,Nicolas Roy (C/RW),Vegas Golden Knights,4,0,3,3,0.75,0,1,https://www.eliteprospects.com/player/151361/nicolas-roy,2022-2021,nhl,Nicolas Roy ,C/RW
+135,Alex Pietrangelo (D),Vegas Golden Knights,4,0,3,3,0.75,0,0,https://www.eliteprospects.com/player/11317/alex-pietrangelo,2022-2021,nhl,Alex Pietrangelo ,D
+136,Vladislav Namestnikov (C/LW),Tampa Bay Lightning,4,0,3,3,0.75,2,0,https://www.eliteprospects.com/player/39029/vladislav-namestnikov,2022-2021,nhl,Vladislav Namestnikov ,C/LW
+137,Sean Durzi (D),Los Angeles Kings,4,0,3,3,0.75,2,-2,https://www.eliteprospects.com/player/268973/sean-durzi,2022-2021,nhl,Sean Durzi ,D
+138,Brock Boeser (RW),Vancouver Canucks,4,0,3,3,0.75,4,-2,https://www.eliteprospects.com/player/248381/brock-boeser,2022-2021,nhl,Brock Boeser ,RW
+139,Boone Jenner (C),Columbus Blue Jackets,4,0,3,3,0.75,6,2,https://www.eliteprospects.com/player/45587/boone-jenner,2022-2021,nhl,Boone Jenner ,C
+140,Mason McTavish (C),Anaheim Ducks,4,0,3,3,0.75,6,-2,https://www.eliteprospects.com/player/479812/mason-mctavish,2022-2021,nhl,Mason McTavish ,C
+141,Ryan McDonagh (D),Nashville Predators,5,0,3,3,0.60,0,1,https://www.eliteprospects.com/player/11458/ryan-mcdonagh,2022-2021,nhl,Ryan McDonagh ,D
+142,Mario Ferraro (D),San Jose Sharks,5,0,3,3,0.60,0,-4,https://www.eliteprospects.com/player/245622/mario-ferraro,2022-2021,nhl,Mario Ferraro ,D
+143,Trevor Moore (C/W),Los Angeles Kings,5,0,3,3,0.60,0,-2,https://www.eliteprospects.com/player/87846/trevor-moore,2022-2021,nhl,Trevor Moore ,C/W
+144,Quinton Byfield (C),Los Angeles Kings,5,0,3,3,0.60,2,3,https://www.eliteprospects.com/player/503020/quinton-byfield,2022-2021,nhl,Quinton Byfield ,C
+145,Vladimir Tarasenko (RW),St. Louis Blues,1,2,0,2,2.00,0,2,https://www.eliteprospects.com/player/24787/vladimir-tarasenko,2022-2021,nhl,Vladimir Tarasenko ,RW
+146,Shane Pinto (C),Ottawa Senators,3,2,0,2,0.67,0,-3,https://www.eliteprospects.com/player/388979/shane-pinto,2022-2021,nhl,Shane Pinto ,C
+147,Elias Lindholm (C),Calgary Flames,3,2,0,2,0.67,0,-1,https://www.eliteprospects.com/player/33387/elias-lindholm,2022-2021,nhl,Elias Lindholm ,C
+148,Victor Olofsson (LW/RW),Buffalo Sabres,3,2,0,2,0.67,0,1,https://www.eliteprospects.com/player/86308/victor-olofsson,2022-2021,nhl,Victor Olofsson ,LW/RW
+149,Seth Jarvis (C/RW),Carolina Hurricanes,3,2,0,2,0.67,0,2,https://www.eliteprospects.com/player/201952/seth-jarvis,2022-2021,nhl,Seth Jarvis ,C/RW
+150,Jakob Silfverberg (RW/LW),Anaheim Ducks,3,2,0,2,0.67,0,0,https://www.eliteprospects.com/player/6562/jakob-silfverberg,2022-2021,nhl,Jakob Silfverberg ,RW/LW
+151,Mikael Backlund (C),Calgary Flames,3,2,0,2,0.67,2,-1,https://www.eliteprospects.com/player/4295/mikael-backlund,2022-2021,nhl,Mikael Backlund ,C
+152,Scott Mayfield (D),New York Islanders,3,2,0,2,0.67,2,1,https://www.eliteprospects.com/player/45906/scott-mayfield,2022-2021,nhl,Scott Mayfield ,D
+153,Tyler Toffoli (W/C),Calgary Flames,3,2,0,2,0.67,2,-3,https://www.eliteprospects.com/player/23813/tyler-toffoli,2022-2021,nhl,Tyler Toffoli ,W/C
+154,Robin Salo (D),New York Islanders,3,2,0,2,0.67,4,2,https://www.eliteprospects.com/player/197821/robin-salo,2022-2021,nhl,Robin Salo ,D
+155,Scott Laughton (C/LW),Philadelphia Flyers,3,2,0,2,0.67,4,2,https://www.eliteprospects.com/player/76690/scott-laughton,2022-2021,nhl,Scott Laughton ,C/LW
+156,Jonathan Toews (C),Chicago Blackhawks,3,2,0,2,0.67,4,1,https://www.eliteprospects.com/player/8792/jonathan-toews,2022-2021,nhl,Jonathan Toews ,C
+157,Kaapo Kakko (RW),New York Rangers,4,2,0,2,0.50,0,1,https://www.eliteprospects.com/player/396655/kaapo-kakko,2022-2021,nhl,Kaapo Kakko ,RW
+158,Gustav Nyquist (C/W),Columbus Blue Jackets,4,2,0,2,0.50,2,0,https://www.eliteprospects.com/player/6223/gustav-nyquist,2022-2021,nhl,Gustav Nyquist ,C/W
+159,Frank Vatrano (W/C),Anaheim Ducks,4,2,0,2,0.50,2,-2,https://www.eliteprospects.com/player/59733/frank-vatrano,2022-2021,nhl,Frank Vatrano ,W/C
+160,Anthony Mantha (RW/LW),Washington Capitals,4,2,0,2,0.50,5,-1,https://www.eliteprospects.com/player/104045/anthony-mantha,2022-2021,nhl,Anthony Mantha ,RW/LW
+161,Nico Sturm (C/LW),San Jose Sharks,5,2,0,2,0.40,2,0,https://www.eliteprospects.com/player/54457/nico-sturm,2022-2021,nhl,Nico Sturm ,C/LW
+162,Phillip Danault (C/LW),Los Angeles Kings,5,2,0,2,0.40,2,-3,https://www.eliteprospects.com/player/45282/phillip-danault,2022-2021,nhl,Phillip Danault ,C/LW
+163,Pavel Buchnevich (RW/LW),St. Louis Blues,1,1,1,2,2.00,0,3,https://www.eliteprospects.com/player/158906/pavel-buchnevich,2022-2021,nhl,Pavel Buchnevich ,RW/LW
+164,Kyle Connor (LW),Winnipeg Jets,2,1,1,2,1.00,0,1,https://www.eliteprospects.com/player/177671/kyle-connor,2022-2021,nhl,Kyle Connor ,LW
+165,Nico Hischier (C),New Jersey Devils,2,1,1,2,1.00,0,-1,https://www.eliteprospects.com/player/116244/nico-hischier,2022-2021,nhl,Nico Hischier ,C
+166,Jakub Vrána (LW/RW),Detroit Red Wings,2,1,1,2,1.00,0,1,https://www.eliteprospects.com/player/101250/jakub-vrana,2022-2021,nhl,Jakub Vrána ,LW/RW
+167,Cody Ceci (D),Edmonton Oilers,3,1,1,2,0.67,0,3,https://www.eliteprospects.com/player/45584/cody-ceci,2022-2021,nhl,Cody Ceci ,D
+168,Taylor Raddysh (RW),Chicago Blackhawks,3,1,1,2,0.67,0,2,https://www.eliteprospects.com/player/245610/taylor-raddysh,2022-2021,nhl,Taylor Raddysh ,RW
+169,Clayton Keller (W/C),Arizona Coyotes,3,1,1,2,0.67,0,-5,https://www.eliteprospects.com/player/226432/clayton-keller,2022-2021,nhl,Clayton Keller ,W/C
+170,Kasperi Kapanen (RW/LW),Pittsburgh Penguins,3,1,1,2,0.67,0,1,https://www.eliteprospects.com/player/92226/kasperi-kapanen,2022-2021,nhl,Kasperi Kapanen ,RW/LW
+171,Anthony Beauvillier (LW/C),New York Islanders,3,1,1,2,0.67,0,-1,https://www.eliteprospects.com/player/213435/anthony-beauvillier,2022-2021,nhl,Anthony Beauvillier ,LW/C
+172,Andrew Cogliano (C/LW),Colorado Avalanche,3,1,1,2,0.67,0,2,https://www.eliteprospects.com/player/9187/andrew-cogliano,2022-2021,nhl,Andrew Cogliano ,C/LW
+173,Zach Parise (LW/RW),New York Islanders,3,1,1,2,0.67,0,2,https://www.eliteprospects.com/player/8903/zach-parise,2022-2021,nhl,Zach Parise ,LW/RW
+174,Brady Skjei (D),Carolina Hurricanes,3,1,1,2,0.67,0,6,https://www.eliteprospects.com/player/90352/brady-skjei,2022-2021,nhl,Brady Skjei ,D
+175,Andrew Mangiapane (W/C),Calgary Flames,3,1,1,2,0.67,0,2,https://www.eliteprospects.com/player/223199/andrew-mangiapane,2022-2021,nhl,Andrew Mangiapane ,W/C
+176,Kiefer Sherwood (W/C),Nashville Predators,3,1,1,2,0.67,2,2,https://www.eliteprospects.com/player/196607/kiefer-sherwood,2022-2021,nhl,Kiefer Sherwood ,W/C
+177,Sam Bennett (C/LW),Florida Panthers,3,1,1,2,0.67,2,-4,https://www.eliteprospects.com/player/189371/sam-bennett,2022-2021,nhl,Sam Bennett ,C/LW
+178,Jordan Martinook (W/C),Carolina Hurricanes,3,1,1,2,0.67,2,2,https://www.eliteprospects.com/player/44271/jordan-martinook,2022-2021,nhl,Jordan Martinook ,W/C
+179,Artyom Zub (D),Ottawa Senators,3,1,1,2,0.67,2,1,https://www.eliteprospects.com/player/182436/artyom-zub,2022-2021,nhl,Artyom Zub ,D
+180,Christian Fischer (RW/C),Arizona Coyotes,3,1,1,2,0.67,2,1,https://www.eliteprospects.com/player/226901/christian-fischer,2022-2021,nhl,Christian Fischer ,RW/C
+181,Ben Chiarot (D),Detroit Red Wings,3,1,1,2,0.67,2,1,https://www.eliteprospects.com/player/33875/ben-chiarot,2022-2021,nhl,Ben Chiarot ,D
+182,Samuel Girard (D),Colorado Avalanche,3,1,1,2,0.67,2,3,https://www.eliteprospects.com/player/251476/samuel-girard,2022-2021,nhl,Samuel Girard ,D
+183,William Carrier (LW),Vegas Golden Knights,3,1,1,2,0.67,2,1,https://www.eliteprospects.com/player/88662/william-carrier,2022-2021,nhl,William Carrier ,LW
+184,Jacob Middleton (D),Minnesota Wild,3,1,1,2,0.67,4,1,https://www.eliteprospects.com/player/150872/jacob-middleton,2022-2021,nhl,Jacob Middleton ,D
+185,Dawson Mercer (C),New Jersey Devils,3,1,1,2,0.67,4,-3,https://www.eliteprospects.com/player/320305/dawson-mercer,2022-2021,nhl,Dawson Mercer ,C
+186,Dillon Dubé (C/LW),Calgary Flames,3,1,1,2,0.67,4,0,https://www.eliteprospects.com/player/157256/dillon-dube,2022-2021,nhl,Dillon Dubé ,C/LW
+187,Trent Frederic (C/LW),Boston Bruins,3,1,1,2,0.67,7,3,https://www.eliteprospects.com/player/272221/trent-frederic,2022-2021,nhl,Trent Frederic ,C/LW
+188,Marcus Foligno (LW/RW),Minnesota Wild,3,1,1,2,0.67,9,-2,https://www.eliteprospects.com/player/18601/marcus-foligno,2022-2021,nhl,Marcus Foligno ,LW/RW
+189,Auston Matthews (C),Toronto Maple Leafs,4,1,1,2,0.50,0,1,https://www.eliteprospects.com/player/199898/auston-matthews,2022-2021,nhl,Auston Matthews ,C
+190,Jared McCann (C/LW),Seattle Kraken,4,1,1,2,0.50,0,-4,https://www.eliteprospects.com/player/189369/jared-mccann,2022-2021,nhl,Jared McCann ,C/LW
+191,Zach Werenski (D),Columbus Blue Jackets,4,1,1,2,0.50,0,-2,https://www.eliteprospects.com/player/186311/zach-werenski,2022-2021,nhl,Zach Werenski ,D
+192,Andrey Kuzmenko (LW),Vancouver Canucks,4,1,1,2,0.50,0,-2,https://www.eliteprospects.com/player/211807/andrey-kuzmenko,2022-2021,nhl,Andrey Kuzmenko ,LW
+193,Lars Eller (C),Washington Capitals,4,1,1,2,0.50,0,1,https://www.eliteprospects.com/player/5995/lars-eller,2022-2021,nhl,Lars Eller ,C
+194,Vladislav Gavrikov (D),Columbus Blue Jackets,4,1,1,2,0.50,0,0,https://www.eliteprospects.com/player/165015/vladislav-gavrikov,2022-2021,nhl,Vladislav Gavrikov ,D
+195,Oliver Bjorkstrand (RW),Seattle Kraken,4,1,1,2,0.50,0,1,https://www.eliteprospects.com/player/92803/oliver-bjorkstrand,2022-2021,nhl,Oliver Bjorkstrand ,RW
+196,Brayden Point (C),Tampa Bay Lightning,4,1,1,2,0.50,0,-2,https://www.eliteprospects.com/player/62204/brayden-point,2022-2021,nhl,Brayden Point ,C
+197,Reilly Smith (RW/LW),Vegas Golden Knights,4,1,1,2,0.50,0,3,https://www.eliteprospects.com/player/33903/reilly-smith,2022-2021,nhl,Reilly Smith ,RW/LW
+198,Shea Theodore (D),Vegas Golden Knights,4,1,1,2,0.50,0,6,https://www.eliteprospects.com/player/101581/shea-theodore,2022-2021,nhl,Shea Theodore ,D
+199,Cody Glass (C),Nashville Predators,4,1,1,2,0.50,2,2,https://www.eliteprospects.com/player/201704/cody-glass,2022-2021,nhl,Cody Glass ,C
+200,Michael Bunting (LW/RW),Toronto Maple Leafs,4,1,1,2,0.50,2,0,https://www.eliteprospects.com/player/245191/michael-bunting,2022-2021,nhl,Michael Bunting ,LW/RW
+201,Cody Glass (C),Nashville Predators,4,1,1,2,0.50,2,2,https://www.eliteprospects.com/player/201704/cody-glass,2022-2021,nhl,Cody Glass ,C
+202,John Carlson (D),Washington Capitals,4,1,1,2,0.50,2,-1,https://www.eliteprospects.com/player/18590/john-carlson,2022-2021,nhl,John Carlson ,D
+203,William Karlsson (C),Vegas Golden Knights,4,1,1,2,0.50,2,1,https://www.eliteprospects.com/player/19432/william-karlsson,2022-2021,nhl,William Karlsson ,C
+204,Sean Monahan (C),Montréal Canadiens,4,1,1,2,0.50,2,0,https://www.eliteprospects.com/player/85013/sean-monahan,2022-2021,nhl,Sean Monahan ,C
+205,Kirby Dach (C),Montréal Canadiens,4,1,1,2,0.50,2,0,https://www.eliteprospects.com/player/268089/kirby-dach,2022-2021,nhl,Kirby Dach ,C
+206,Hampus Lindholm (D),Boston Bruins,4,1,1,2,0.50,4,4,https://www.eliteprospects.com/player/34882/hampus-lindholm,2022-2021,nhl,Hampus Lindholm ,D
+207,Nic Dowd (C/RW),Washington Capitals,4,1,1,2,0.50,4,-1,https://www.eliteprospects.com/player/39372/nic-dowd,2022-2021,nhl,Nic Dowd ,C/RW
+208,Barclay Goodrow (C/W),New York Rangers,4,1,1,2,0.50,4,2,https://www.eliteprospects.com/player/45398/barclay-goodrow,2022-2021,nhl,Barclay Goodrow ,C/W
+209,Justin Danforth (RW/C),Columbus Blue Jackets,4,1,1,2,0.50,4,-4,https://www.eliteprospects.com/player/76146/justin-danforth,2022-2021,nhl,Justin Danforth ,RW/C
+210,Corey Perry (RW),Tampa Bay Lightning,4,1,1,2,0.50,5,-3,https://www.eliteprospects.com/player/8541/corey-perry,2022-2021,nhl,Corey Perry ,RW
+211,Filip Chytil (C),New York Rangers,4,1,1,2,0.50,6,2,https://www.eliteprospects.com/player/236806/filip-chytil,2022-2021,nhl,Filip Chytil ,C
+212,Calle Järnkrok (C/W),Toronto Maple Leafs,4,1,1,2,0.50,6,0,https://www.eliteprospects.com/player/6020/calle-jarnkrok,2022-2021,nhl,Calle Järnkrok ,C/W
+213,Logan Couture (C),San Jose Sharks,5,1,1,2,0.40,2,-6,https://www.eliteprospects.com/player/11109/logan-couture,2022-2021,nhl,Logan Couture ,C
+214,Luke Kunin (C/W),San Jose Sharks,5,1,1,2,0.40,4,-6,https://www.eliteprospects.com/player/245278/luke-kunin,2022-2021,nhl,Luke Kunin ,C/W
+215,Drew Doughty (D),Los Angeles Kings,5,1,1,2,0.40,8,-1,https://www.eliteprospects.com/player/10430/drew-doughty,2022-2021,nhl,Drew Doughty ,D
+216,Brayden Schenn (C/W),St. Louis Blues,1,0,2,2,2.00,0,2,https://www.eliteprospects.com/player/14739/brayden-schenn,2022-2021,nhl,Brayden Schenn ,C/W
+217,Stefan Noesen (RW),Carolina Hurricanes,2,0,2,2,1.00,2,1,https://www.eliteprospects.com/player/45567/stefan-noesen,2022-2021,nhl,Stefan Noesen ,RW
+218,Andrew Copp (C/LW),Detroit Red Wings,3,0,2,2,0.67,0,2,https://www.eliteprospects.com/player/101962/andrew-copp,2022-2021,nhl,Andrew Copp ,C/LW
+219,Devon Toews (D),Colorado Avalanche,3,0,2,2,0.67,0,2,https://www.eliteprospects.com/player/59575/devon-toews,2022-2021,nhl,Devon Toews ,D
+220,Matt Dumba (D),Minnesota Wild,3,0,2,2,0.67,0,-3,https://www.eliteprospects.com/player/53542/matt-dumba,2022-2021,nhl,Matt Dumba ,D
+221,Aleksander Barkov (C),Florida Panthers,3,0,2,2,0.67,0,-2,https://www.eliteprospects.com/player/50044/aleksander-barkov,2022-2021,nhl,Aleksander Barkov ,C
+222,Jean-Gabriel Pageau (C),New York Islanders,3,0,2,2,0.67,0,0,https://www.eliteprospects.com/player/45134/jean-gabriel-pageau,2022-2021,nhl,Jean-Gabriel Pageau ,C
+223,Nick Bjugstad (C/RW),Arizona Coyotes,3,0,2,2,0.67,0,1,https://www.eliteprospects.com/player/40265/nick-bjugstad,2022-2021,nhl,Nick Bjugstad ,C/RW
+224,Jonas Siegenthaler (D),New Jersey Devils,3,0,2,2,0.67,0,1,https://www.eliteprospects.com/player/105407/jonas-siegenthaler,2022-2021,nhl,Jonas Siegenthaler ,D
+225,Tanner Laczynski (C),Philadelphia Flyers,3,0,2,2,0.67,0,1,https://www.eliteprospects.com/player/234312/tanner-laczynski,2022-2021,nhl,Tanner Laczynski ,C
+226,Pavol Regenda (LW/RW),Anaheim Ducks,3,0,2,2,0.67,0,0,https://www.eliteprospects.com/player/249755/pavol-regenda,2022-2021,nhl,Pavol Regenda ,LW/RW
+227,Philipp Kurashev (C/W),Chicago Blackhawks,3,0,2,2,0.67,0,-2,https://www.eliteprospects.com/player/279238/philipp-kurashev,2022-2021,nhl,Philipp Kurashev ,C/W
+228,Jack Hughes (C),New Jersey Devils,3,0,2,2,0.67,0,-1,https://www.eliteprospects.com/player/305432/jack-hughes,2022-2021,nhl,Jack Hughes ,C
+229,Filip Hronek (D),Detroit Red Wings,3,0,2,2,0.67,2,4,https://www.eliteprospects.com/player/191286/filip-hronek,2022-2021,nhl,Filip Hronek ,D
+230,Jesperi Kotkaniemi (C/LW),Carolina Hurricanes,3,0,2,2,0.67,2,4,https://www.eliteprospects.com/player/363872/jesperi-kotkaniemi,2022-2021,nhl,Jesperi Kotkaniemi ,C/LW
+231,Zach Hyman (W/C),Edmonton Oilers,3,0,2,2,0.67,2,0,https://www.eliteprospects.com/player/75045/zach-hyman,2022-2021,nhl,Zach Hyman ,W/C
+232,Blake Coleman (C/W),Calgary Flames,3,0,2,2,0.67,2,0,https://www.eliteprospects.com/player/46889/blake-coleman,2022-2021,nhl,Blake Coleman ,C/W
+233,Matt Martin (LW),New York Islanders,3,0,2,2,0.67,2,1,https://www.eliteprospects.com/player/19225/matt-martin,2022-2021,nhl,Matt Martin ,LW
+234,Evander Kane (LW),Edmonton Oilers,3,0,2,2,0.67,2,0,https://www.eliteprospects.com/player/14657/evander-kane,2022-2021,nhl,Evander Kane ,LW
+235,Alex DeBrincat (W/C),Ottawa Senators,3,0,2,2,0.67,2,-3,https://www.eliteprospects.com/player/231275/alex-debrincat,2022-2021,nhl,Alex DeBrincat ,W/C
+236,Erik Brännström (D),Ottawa Senators,3,0,2,2,0.67,2,-2,https://www.eliteprospects.com/player/255167/erik-brannstrom,2022-2021,nhl,Erik Brännström ,D
+237,Pierre-Olivier Joseph (D),Pittsburgh Penguins,3,0,2,2,0.67,2,2,https://www.eliteprospects.com/player/284911/pierre-olivier-joseph,2022-2021,nhl,Pierre-Olivier Joseph ,D
+238,Ryan Suter (D),Dallas Stars,3,0,2,2,0.67,2,1,https://www.eliteprospects.com/player/8897/ryan-suter,2022-2021,nhl,Ryan Suter ,D
+239,Dylan Cozens (C),Buffalo Sabres,3,0,2,2,0.67,2,1,https://www.eliteprospects.com/player/286938/dylan-cozens,2022-2021,nhl,Dylan Cozens ,C
+240,Marcus Pettersson (D),Pittsburgh Penguins,3,0,2,2,0.67,4,1,https://www.eliteprospects.com/player/86321/marcus-pettersson,2022-2021,nhl,Marcus Pettersson ,D
+241,Adam Pelech (D),New York Islanders,3,0,2,2,0.67,6,3,https://www.eliteprospects.com/player/89694/adam-pelech,2022-2021,nhl,Adam Pelech ,D
+242,Lucas Raymond (RW),Detroit Red Wings,3,0,2,2,0.67,6,4,https://www.eliteprospects.com/player/350702/lucas-raymond,2022-2021,nhl,Lucas Raymond ,RW
+243,Trevor van Riemsdyk (D),Washington Capitals,4,0,2,2,0.50,0,1,https://www.eliteprospects.com/player/60230/trevor-van-riemsdyk,2022-2021,nhl,Trevor van Riemsdyk ,D
+244,Erik Gudbranson (D),Columbus Blue Jackets,4,0,2,2,0.50,0,-4,https://www.eliteprospects.com/player/31282/erik-gudbranson,2022-2021,nhl,Erik Gudbranson ,D
+245,John Klingberg (D),Anaheim Ducks,4,0,2,2,0.50,0,-2,https://www.eliteprospects.com/player/21717/john-klingberg,2022-2021,nhl,John Klingberg ,D
+246,Erik Gustafsson (D),Washington Capitals,4,0,2,2,0.50,0,-1,https://www.eliteprospects.com/player/15372/erik-gustafsson,2022-2021,nhl,Erik Gustafsson ,D
+247,Oliver Ekman Larsson (D),Vancouver Canucks,4,0,2,2,0.50,0,-3,https://www.eliteprospects.com/player/7693/oliver-ekman-larsson,2022-2021,nhl,Oliver Ekman Larsson ,D
+248,Jakub Voracek (RW),Columbus Blue Jackets,4,0,2,2,0.50,0,-6,https://www.eliteprospects.com/player/9285/jakub-voracek,2022-2021,nhl,Jakub Voracek ,RW
+249,Yegor Chinakhov (RW),Columbus Blue Jackets,4,0,2,2,0.50,0,-5,https://www.eliteprospects.com/player/519779/yegor-chinakhov,2022-2021,nhl,Yegor Chinakhov ,RW
+250,Vasili Podkolzin (RW),Vancouver Canucks,4,0,2,2,0.50,0,2,https://www.eliteprospects.com/player/512832/vasili-podkolzin,2022-2021,nhl,Vasili Podkolzin ,RW
+251,K'Andre Miller (D),New York Rangers,4,0,2,2,0.50,2,3,https://www.eliteprospects.com/player/308192/k-andre-miller,2022-2021,nhl,K'Andre Miller ,D
+252,Isac Lundeström (C/LW),Anaheim Ducks,4,0,2,2,0.50,2,-1,https://www.eliteprospects.com/player/265570/isac-lundestrom,2022-2021,nhl,Isac Lundeström ,C/LW
+253,Alex Killorn (LW),Tampa Bay Lightning,4,0,2,2,0.50,2,0,https://www.eliteprospects.com/player/12523/alex-killorn,2022-2021,nhl,Alex Killorn ,LW
+254,Nick Jensen (D),Washington Capitals,4,0,2,2,0.50,2,2,https://www.eliteprospects.com/player/37773/nick-jensen,2022-2021,nhl,Nick Jensen ,D
+255,Jacob Trouba (D),New York Rangers,4,0,2,2,0.50,2,6,https://www.eliteprospects.com/player/90349/jacob-trouba,2022-2021,nhl,Jacob Trouba ,D
+256,Jaycob Megna (D),San Jose Sharks,4,0,2,2,0.50,2,0,https://www.eliteprospects.com/player/84762/jaycob-megna,2022-2021,nhl,Jaycob Megna ,D
+257,Jordan Eberle (RW),Seattle Kraken,4,0,2,2,0.50,4,-3,https://www.eliteprospects.com/player/11098/jordan-eberle,2022-2021,nhl,Jordan Eberle ,RW
+258,Ryan Lindgren (D),New York Rangers,4,0,2,2,0.50,4,-1,https://www.eliteprospects.com/player/226442/ryan-lindgren,2022-2021,nhl,Ryan Lindgren ,D
+259,Vince Dunn (D),Seattle Kraken,4,0,2,2,0.50,4,-3,https://www.eliteprospects.com/player/161816/vince-dunn,2022-2021,nhl,Vince Dunn ,D
+260,Mikhail Sergachyov (D),Tampa Bay Lightning,4,0,2,2,0.50,4,-4,https://www.eliteprospects.com/player/312213/mikhail-sergachyov,2022-2021,nhl,Mikhail Sergachyov ,D
+261,Kaiden Guhle (D),Montréal Canadiens,4,0,2,2,0.50,5,-2,https://www.eliteprospects.com/player/413363/kaiden-guhle,2022-2021,nhl,Kaiden Guhle ,D
+262,Zach Whitecloud (D),Vegas Golden Knights,4,0,2,2,0.50,6,-2,https://www.eliteprospects.com/player/202774/zach-whitecloud,2022-2021,nhl,Zach Whitecloud ,D
+263,Tanner Pearson (LW),Vancouver Canucks,4,0,2,2,0.50,6,-1,https://www.eliteprospects.com/player/75951/tanner-pearson,2022-2021,nhl,Tanner Pearson ,LW
+264,Brendan Lemieux (LW),Los Angeles Kings,4,0,2,2,0.50,11,-1,https://www.eliteprospects.com/player/177647/brendan-lemieux,2022-2021,nhl,Brendan Lemieux ,LW
+265,Steven Lorentz (C/LW),San Jose Sharks,5,0,2,2,0.40,0,-1,https://www.eliteprospects.com/player/204707/steven-lorentz,2022-2021,nhl,Steven Lorentz ,C/LW
+266,Mikey Anderson (D),Los Angeles Kings,5,0,2,2,0.40,2,0,https://www.eliteprospects.com/player/201512/mikey-anderson,2022-2021,nhl,Mikey Anderson ,D
+267,Patrik Laine (LW/RW),Columbus Blue Jackets,1,1,0,1,1.00,0,1,https://www.eliteprospects.com/player/221667/patrik-laine,2022-2021,nhl,Patrik Laine ,LW/RW
+268,Ivan Barbashev (C/W),St. Louis Blues,1,1,0,1,1.00,0,2,https://www.eliteprospects.com/player/108659/ivan-barbashev,2022-2021,nhl,Ivan Barbashev ,C/W
+269,Jake Neighbours (LW),St. Louis Blues,1,1,0,1,1.00,0,1,https://www.eliteprospects.com/player/391048/jake-neighbours,2022-2021,nhl,Jake Neighbours ,LW
+270,Cal Clutterbuck (RW),New York Islanders,2,1,0,1,0.50,0,2,https://www.eliteprospects.com/player/9359/cal-clutterbuck,2022-2021,nhl,Cal Clutterbuck ,RW
+271,Sam Gagner (C/RW),Winnipeg Jets,2,1,0,1,0.50,0,0,https://www.eliteprospects.com/player/10425/sam-gagner,2022-2021,nhl,Sam Gagner ,C/RW
+272,Brandon Montour (D),Florida Panthers,2,1,0,1,0.50,2,0,https://www.eliteprospects.com/player/97957/brandon-montour,2022-2021,nhl,Brandon Montour ,D
+273,Patric Hörnqvist (RW),Florida Panthers,3,1,0,1,0.33,0,0,https://www.eliteprospects.com/player/3683/patric-hornqvist,2022-2021,nhl,Patric Hörnqvist ,RW
+274,Alexander Holtz (RW),New Jersey Devils,3,1,0,1,0.33,0,-2,https://www.eliteprospects.com/player/344808/alexander-holtz,2022-2021,nhl,Alexander Holtz ,RW
+275,Bowen Byram (D),Colorado Avalanche,3,1,0,1,0.33,0,2,https://www.eliteprospects.com/player/326522/bowen-byram,2022-2021,nhl,Bowen Byram ,D
+276,Damon Severson (D),New Jersey Devils,3,1,0,1,0.33,0,-5,https://www.eliteprospects.com/player/55867/damon-severson,2022-2021,nhl,Damon Severson ,D
+277,Adam Erne (LW/RW),Detroit Red Wings,3,1,0,1,0.33,0,-2,https://www.eliteprospects.com/player/90359/adam-erne,2022-2021,nhl,Adam Erne ,LW/RW
+278,Max Domi (C/LW),Chicago Blackhawks,3,1,0,1,0.33,0,0,https://www.eliteprospects.com/player/95484/max-domi,2022-2021,nhl,Max Domi ,C/LW
+279,Sam Steel (C),Minnesota Wild,3,1,0,1,0.33,0,1,https://www.eliteprospects.com/player/154496/sam-steel,2022-2021,nhl,Sam Steel ,C
+280,Conor Garland (RW/LW),Vancouver Canucks,3,1,0,1,0.33,0,1,https://www.eliteprospects.com/player/177208/conor-garland,2022-2021,nhl,Conor Garland ,RW/LW
+281,Rickard Rakell (W/C),Pittsburgh Penguins,3,1,0,1,0.33,0,4,https://www.eliteprospects.com/player/17435/rickard-rakell,2022-2021,nhl,Rickard Rakell ,W/C
+282,Noah Cates (LW),Philadelphia Flyers,3,1,0,1,0.33,0,2,https://www.eliteprospects.com/player/201517/noah-cates,2022-2021,nhl,Noah Cates ,LW
+283,Wyatt Johnston (C),Dallas Stars,3,1,0,1,0.33,0,1,https://www.eliteprospects.com/player/201871/wyatt-johnston,2022-2021,nhl,Wyatt Johnston ,C
+284,Lawson Crouse (LW),Arizona Coyotes,3,1,0,1,0.33,0,-2,https://www.eliteprospects.com/player/205155/lawson-crouse,2022-2021,nhl,Lawson Crouse ,LW
+285,Mark Kastelic (C),Ottawa Senators,3,1,0,1,0.33,0,1,https://www.eliteprospects.com/player/276474/mark-kastelic,2022-2021,nhl,Mark Kastelic ,C
+286,Ben Meyers (C/LW),Colorado Avalanche,3,1,0,1,0.33,0,1,https://www.eliteprospects.com/player/300838/ben-meyers,2022-2021,nhl,Ben Meyers ,C/LW
+287,Ondrej Palat (LW),New Jersey Devils,3,1,0,1,0.33,0,-2,https://www.eliteprospects.com/player/18097/ondrej-palat,2022-2021,nhl,Ondrej Palat ,LW
+288,Brett Ritchie (RW),Calgary Flames,3,1,0,1,0.33,2,2,https://www.eliteprospects.com/player/45554/brett-ritchie,2022-2021,nhl,Brett Ritchie ,RW
+289,Zemgus Girgensons (C/W),Buffalo Sabres,3,1,0,1,0.33,2,1,https://www.eliteprospects.com/player/59843/zemgus-girgensons,2022-2021,nhl,Zemgus Girgensons ,C/W
+290,Josh Brown (D),Arizona Coyotes,3,1,0,1,0.33,2,1,https://www.eliteprospects.com/player/82512/josh-brown,2022-2021,nhl,Josh Brown ,D
+291,Dryden Hunt (LW/C),New York Rangers,3,1,0,1,0.33,2,-1,https://www.eliteprospects.com/player/84609/dryden-hunt,2022-2021,nhl,Dryden Hunt ,LW/C
+292,Wade Allison (RW),Philadelphia Flyers,3,1,0,1,0.33,2,2,https://www.eliteprospects.com/player/199949/wade-allison,2022-2021,nhl,Wade Allison ,RW
+293,Tage Thompson (C/W),Buffalo Sabres,3,1,0,1,0.33,2,1,https://www.eliteprospects.com/player/301349/tage-thompson,2022-2021,nhl,Tage Thompson ,C/W
+294,Joel Kiviranta (LW),Dallas Stars,3,1,0,1,0.33,4,1,https://www.eliteprospects.com/player/91109/joel-kiviranta,2022-2021,nhl,Joel Kiviranta ,LW
+295,Ryan McLeod (C/W),Edmonton Oilers,3,1,0,1,0.33,4,0,https://www.eliteprospects.com/player/271502/ryan-mcleod,2022-2021,nhl,Ryan McLeod ,C/W
+296,Ryan Nugent-Hopkins (C),Edmonton Oilers,3,1,0,1,0.33,4,-1,https://www.eliteprospects.com/player/25636/ryan-nugent-hopkins,2022-2021,nhl,Ryan Nugent-Hopkins ,C
+297,Aaron Ekblad (D),Florida Panthers,3,1,0,1,0.33,4,1,https://www.eliteprospects.com/player/49042/aaron-ekblad,2022-2021,nhl,Aaron Ekblad ,D
+298,Elmer Söderblom (LW/RW),Detroit Red Wings,3,1,0,1,0.33,4,-1,https://www.eliteprospects.com/player/350706/elmer-soderblom,2022-2021,nhl,Elmer Söderblom ,LW/RW
+299,Kyle Burroughs (D),Vancouver Canucks,3,1,0,1,0.33,5,0,https://www.eliteprospects.com/player/87758/kyle-burroughs,2022-2021,nhl,Kyle Burroughs ,D
+300,Miles Wood (LW),New Jersey Devils,3,1,0,1,0.33,6,-1,https://www.eliteprospects.com/player/131890/miles-wood,2022-2021,nhl,Miles Wood ,LW
+301,Jani Hakanpää (D),Dallas Stars,3,1,0,1,0.33,9,2,https://www.eliteprospects.com/player/45342/jani-hakanpaa,2022-2021,nhl,Jani Hakanpää ,D
+302,Josh Manson (D),Colorado Avalanche,3,1,0,1,0.33,9,0,https://www.eliteprospects.com/player/47762/josh-manson,2022-2021,nhl,Josh Manson ,D
+303,Adam Larsson (D),Seattle Kraken,4,1,0,1,0.25,0,-2,https://www.eliteprospects.com/player/10713/adam-larsson,2022-2021,nhl,Adam Larsson ,D
+304,Sean Kuraly (C/LW),Columbus Blue Jackets,4,1,0,1,0.25,0,-2,https://www.eliteprospects.com/player/49938/sean-kuraly,2022-2021,nhl,Sean Kuraly ,C/LW
+305,Denis Malgin (C/W),Toronto Maple Leafs,4,1,0,1,0.25,0,2,https://www.eliteprospects.com/player/117376/denis-malgin,2022-2021,nhl,Denis Malgin ,C/W
+306,Keegan Kolesar (RW),Vegas Golden Knights,4,1,0,1,0.25,0,1,https://www.eliteprospects.com/player/197560/keegan-kolesar,2022-2021,nhl,Keegan Kolesar ,RW
+307,Cal Foote (D),Tampa Bay Lightning,4,1,0,1,0.25,0,0,https://www.eliteprospects.com/player/247895/cal-foote,2022-2021,nhl,Cal Foote ,D
+308,Brandon Tanev (LW/RW),Seattle Kraken,4,1,0,1,0.25,2,0,https://www.eliteprospects.com/player/96475/brandon-tanev,2022-2021,nhl,Brandon Tanev ,LW/RW
+309,Brett Howden (C),Vegas Golden Knights,4,1,0,1,0.25,2,1,https://www.eliteprospects.com/player/232712/brett-howden,2022-2021,nhl,Brett Howden ,C
+310,David Kämpf (C/W),Toronto Maple Leafs,4,1,0,1,0.25,2,-2,https://www.eliteprospects.com/player/160499/david-kampf,2022-2021,nhl,David Kämpf ,C/W
+311,Josh Anderson (RW/LW),Montréal Canadiens,4,1,0,1,0.25,2,1,https://www.eliteprospects.com/player/95853/josh-anderson,2022-2021,nhl,Josh Anderson ,RW/LW
+312,Curtis Lazar (C/RW),Vancouver Canucks,4,1,0,1,0.25,2,2,https://www.eliteprospects.com/player/81116/curtis-lazar,2022-2021,nhl,Curtis Lazar ,C/RW
+313,Alexander Wennberg (C),Seattle Kraken,4,1,0,1,0.25,2,0,https://www.eliteprospects.com/player/37041/alexander-wennberg,2022-2021,nhl,Alexander Wennberg ,C
+314,Derek Forbort (D),Boston Bruins,4,1,0,1,0.25,2,3,https://www.eliteprospects.com/player/31265/derek-forbort,2022-2021,nhl,Derek Forbort ,D
+315,Derek Grant (C/W),Anaheim Ducks,4,1,0,1,0.25,4,0,https://www.eliteprospects.com/player/18242/derek-grant,2022-2021,nhl,Derek Grant ,C/W
+316,Justin Holl (D),Toronto Maple Leafs,4,1,0,1,0.25,4,1,https://www.eliteprospects.com/player/46905/justin-holl,2022-2021,nhl,Justin Holl ,D
+317,Paul Cotter (C/LW),Vegas Golden Knights,4,1,0,1,0.25,4,1,https://www.eliteprospects.com/player/284097/paul-cotter,2022-2021,nhl,Paul Cotter ,C/LW
+318,Taylor Hall (LW),Boston Bruins,4,1,0,1,0.25,6,-1,https://www.eliteprospects.com/player/14360/taylor-hall,2022-2021,nhl,Taylor Hall ,LW
+319,Maxime Comtois (LW),Anaheim Ducks,4,1,0,1,0.25,24,-2,https://www.eliteprospects.com/player/201534/maxime-comtois,2022-2021,nhl,Maxime Comtois ,LW
+320,Tomas Hertl (C/LW),San Jose Sharks,5,1,0,1,0.20,2,-5,https://www.eliteprospects.com/player/56038/tomas-hertl,2022-2021,nhl,Tomas Hertl ,C/LW
+321,Tanner Jeannot (LW/RW),Nashville Predators,5,1,0,1,0.20,9,-1,https://www.eliteprospects.com/player/200717/tanner-jeannot,2022-2021,nhl,Tanner Jeannot ,LW/RW
+322,Robert Thomas (C/RW),St. Louis Blues,1,0,1,1,1.00,0,2,https://www.eliteprospects.com/player/201681/robert-thomas,2022-2021,nhl,Robert Thomas ,C/RW
+323,Fabian Zetterlund (LW),New Jersey Devils,1,0,1,1,1.00,0,1,https://www.eliteprospects.com/player/265608/fabian-zetterlund,2022-2021,nhl,Fabian Zetterlund ,LW
+324,Vinnie Hinostroza (C/RW),Buffalo Sabres,1,0,1,1,1.00,0,1,https://www.eliteprospects.com/player/91243/vinnie-hinostroza,2022-2021,nhl,Vinnie Hinostroza ,C/RW
+325,Torey Krug (D),St. Louis Blues,1,0,1,1,1.00,0,0,https://www.eliteprospects.com/player/37747/torey-krug,2022-2021,nhl,Torey Krug ,D
+326,Justin Faulk (D),St. Louis Blues,1,0,1,1,1.00,0,1,https://www.eliteprospects.com/player/20715/justin-faulk,2022-2021,nhl,Justin Faulk ,D
+327,Nick Leddy (D),St. Louis Blues,1,0,1,1,1.00,0,1,https://www.eliteprospects.com/player/38067/nick-leddy,2022-2021,nhl,Nick Leddy ,D
+328,Blake Wheeler (RW/C),Winnipeg Jets,2,0,1,1,0.50,0,1,https://www.eliteprospects.com/player/9215/blake-wheeler,2022-2021,nhl,Blake Wheeler ,RW/C
+329,Saku Mäenalanen (LW/C),Winnipeg Jets,2,0,1,1,0.50,0,-1,https://www.eliteprospects.com/player/73109/saku-maenalanen,2022-2021,nhl,Saku Mäenalanen ,LW/C
+330,Jonathan Drouin (LW/C),Montréal Canadiens,2,0,1,1,0.50,0,1,https://www.eliteprospects.com/player/118657/jonathan-drouin,2022-2021,nhl,Jonathan Drouin ,LW/C
+331,Tyler Bertuzzi (LW),Detroit Red Wings,2,0,1,1,0.50,0,1,https://www.eliteprospects.com/player/125028/tyler-bertuzzi,2022-2021,nhl,Tyler Bertuzzi ,LW
+332,Pius Suter (C),Detroit Red Wings,2,0,1,1,0.50,0,-1,https://www.eliteprospects.com/player/135775/pius-suter,2022-2021,nhl,Pius Suter ,C
+333,Kailer Yamamoto (W/C),Edmonton Oilers,2,0,1,1,0.50,0,1,https://www.eliteprospects.com/player/247915/kailer-yamamoto,2022-2021,nhl,Kailer Yamamoto ,W/C
+334,David Gustafsson (C),Winnipeg Jets,2,0,1,1,0.50,0,1,https://www.eliteprospects.com/player/293796/david-gustafsson,2022-2021,nhl,David Gustafsson ,C
+335,Dylan Guenther (RW/LW),Arizona Coyotes,2,0,1,1,0.50,0,-2,https://www.eliteprospects.com/player/476538/dylan-guenther,2022-2021,nhl,Dylan Guenther ,RW/LW
+336,Josh Morrissey (D),Winnipeg Jets,2,0,1,1,0.50,2,2,https://www.eliteprospects.com/player/62293/josh-morrissey,2022-2021,nhl,Josh Morrissey ,D
+337,Pierre-Luc Dubois (C/LW),Winnipeg Jets,2,0,1,1,0.50,2,-2,https://www.eliteprospects.com/player/252480/pierre-luc-dubois,2022-2021,nhl,Pierre-Luc Dubois ,C/LW
+338,Tyson Jost (C),Minnesota Wild,3,0,1,1,0.33,0,-2,https://www.eliteprospects.com/player/148111/tyson-jost,2022-2021,nhl,Tyson Jost ,C
+339,Kevin Rooney (C),Calgary Flames,3,0,1,1,0.33,0,2,https://www.eliteprospects.com/player/180925/kevin-rooney,2022-2021,nhl,Kevin Rooney ,C
+340,Tyler Motte (C/W),Ottawa Senators,3,0,1,1,0.33,0,0,https://www.eliteprospects.com/player/151824/tyler-motte,2022-2021,nhl,Tyler Motte ,C/W
+341,Yegor Zamula (D),Philadelphia Flyers,3,0,1,1,0.33,0,0,https://www.eliteprospects.com/player/398138/yegor-zamula,2022-2021,nhl,Yegor Zamula ,D
+342,Haydn Fleury (D),Tampa Bay Lightning,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/119392/haydn-fleury,2022-2021,nhl,Haydn Fleury ,D
+343,Tucker Poolman (D),Vancouver Canucks,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/118006/tucker-poolman,2022-2021,nhl,Tucker Poolman ,D
+344,J.T. Compher (W/C),Colorado Avalanche,3,0,1,1,0.33,0,2,https://www.eliteprospects.com/player/114800/j.t.-compher,2022-2021,nhl,J.T. Compher ,W/C
+345,Yegor Sharangovich (C/W),New Jersey Devils,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/271111/yegor-sharangovich,2022-2021,nhl,Yegor Sharangovich ,C/W
+346,Jakub Lauko (C/LW),Boston Bruins,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/273830/jakub-lauko,2022-2021,nhl,Jakub Lauko ,C/LW
+347,Kent Johnson (LW/C),Columbus Blue Jackets,3,0,1,1,0.33,0,-1,https://www.eliteprospects.com/player/521697/kent-johnson,2022-2021,nhl,Kent Johnson ,LW/C
+348,Nils Lundkvist (D),Dallas Stars,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/384079/nils-lundkvist,2022-2021,nhl,Nils Lundkvist ,D
+349,Anton Lundell (C),Florida Panthers,3,0,1,1,0.33,0,2,https://www.eliteprospects.com/player/360145/anton-lundell,2022-2021,nhl,Anton Lundell ,C
+350,Matias Maccelli (LW),Arizona Coyotes,3,0,1,1,0.33,0,0,https://www.eliteprospects.com/player/375953/matias-maccelli,2022-2021,nhl,Matias Maccelli ,LW
+351,Jake Sanderson (D),Ottawa Senators,3,0,1,1,0.33,0,0,https://www.eliteprospects.com/player/413015/jake-sanderson,2022-2021,nhl,Jake Sanderson ,D
+352,Seth Jones (D),Chicago Blackhawks,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/90355/seth-jones,2022-2021,nhl,Seth Jones ,D
+353,Jaccob Slavin (D),Carolina Hurricanes,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/97621/jaccob-slavin,2022-2021,nhl,Jaccob Slavin ,D
+354,Ryan Graves (D),New Jersey Devils,3,0,1,1,0.33,0,-2,https://www.eliteprospects.com/player/103763/ryan-graves,2022-2021,nhl,Ryan Graves ,D
+355,Brent Burns (D),Carolina Hurricanes,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/9103/brent-burns,2022-2021,nhl,Brent Burns ,D
+356,Jack Johnson (D),Chicago Blackhawks,3,0,1,1,0.33,0,0,https://www.eliteprospects.com/player/9205/jack-johnson,2022-2021,nhl,Jack Johnson ,D
+357,Patrick Kane (RW),Chicago Blackhawks,3,0,1,1,0.33,0,0,https://www.eliteprospects.com/player/9326/patrick-kane,2022-2021,nhl,Patrick Kane ,RW
+358,Kyle Okposo (RW/C),Buffalo Sabres,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/10458/kyle-okposo,2022-2021,nhl,Kyle Okposo ,RW/C
+359,Jared Spurgeon (D),Minnesota Wild,3,0,1,1,0.33,0,-2,https://www.eliteprospects.com/player/11611/jared-spurgeon,2022-2021,nhl,Jared Spurgeon ,D
+360,Tyson Barrie (D),Edmonton Oilers,3,0,1,1,0.33,0,-1,https://www.eliteprospects.com/player/15127/tyson-barrie,2022-2021,nhl,Tyson Barrie ,D
+361,Derek Stepan (C),Carolina Hurricanes,3,0,1,1,0.33,0,2,https://www.eliteprospects.com/player/19040/derek-stepan,2022-2021,nhl,Derek Stepan ,C
+362,Craig Smith (RW/C),Boston Bruins,3,0,1,1,0.33,0,-1,https://www.eliteprospects.com/player/27038/craig-smith,2022-2021,nhl,Craig Smith ,RW/C
+363,Austin Watson (W/C),Ottawa Senators,3,0,1,1,0.33,0,1,https://www.eliteprospects.com/player/33753/austin-watson,2022-2021,nhl,Austin Watson ,W/C
+364,Brian Dumoulin (D),Pittsburgh Penguins,3,0,1,1,0.33,0,3,https://www.eliteprospects.com/player/33896/brian-dumoulin,2022-2021,nhl,Brian Dumoulin ,D
+365,Ryan Murray (D),Edmonton Oilers,3,0,1,1,0.33,0,-3,https://www.eliteprospects.com/player/41768/ryan-murray,2022-2021,nhl,Ryan Murray ,D
+366,Ryan Pulock (D),New York Islanders,3,0,1,1,0.33,0,4,https://www.eliteprospects.com/player/86761/ryan-pulock,2022-2021,nhl,Ryan Pulock ,D
+367,Sam Reinhart (C/RW),Florida Panthers,3,0,1,1,0.33,0,-2,https://www.eliteprospects.com/player/95032/sam-reinhart,2022-2021,nhl,Sam Reinhart ,C/RW
+368,Casey Mittelstadt (C),Buffalo Sabres,3,0,1,1,0.33,2,1,https://www.eliteprospects.com/player/300831/casey-mittelstadt,2022-2021,nhl,Casey Mittelstadt ,C
+369,Josh Norris (C),Ottawa Senators,3,0,1,1,0.33,2,-2,https://www.eliteprospects.com/player/273954/josh-norris,2022-2021,nhl,Josh Norris ,C
+370,Mathieu Joseph (RW/LW),Ottawa Senators,3,0,1,1,0.33,2,1,https://www.eliteprospects.com/player/227640/mathieu-joseph,2022-2021,nhl,Mathieu Joseph ,RW/LW
+371,Rudolfs Balcers (LW/RW),Florida Panthers,3,0,1,1,0.33,2,-2,https://www.eliteprospects.com/player/153652/rudolfs-balcers,2022-2021,nhl,Rudolfs Balcers ,LW/RW
+372,Brett Pesce (D),Carolina Hurricanes,3,0,1,1,0.33,2,7,https://www.eliteprospects.com/player/121869/brett-pesce,2022-2021,nhl,Brett Pesce ,D
+373,Ryan Lomberg (LW),Florida Panthers,3,0,1,1,0.33,2,2,https://www.eliteprospects.com/player/76376/ryan-lomberg,2022-2021,nhl,Ryan Lomberg ,LW
+374,Ryan Carpenter (C/RW),New York Rangers,3,0,1,1,0.33,2,-1,https://www.eliteprospects.com/player/46952/ryan-carpenter,2022-2021,nhl,Ryan Carpenter ,C/RW
+375,Travis Boyd (C),Arizona Coyotes,3,0,1,1,0.33,2,-3,https://www.eliteprospects.com/player/38621/travis-boyd,2022-2021,nhl,Travis Boyd ,C
+376,Jeff Skinner (LW/C),Buffalo Sabres,3,0,1,1,0.33,2,1,https://www.eliteprospects.com/player/23668/jeff-skinner,2022-2021,nhl,Jeff Skinner ,LW/C
+377,Radko Gudas (D),Florida Panthers,3,0,1,1,0.33,2,-2,https://www.eliteprospects.com/player/18085/radko-gudas,2022-2021,nhl,Radko Gudas ,D
+378,Paul Stastny (C),Carolina Hurricanes,3,0,1,1,0.33,2,0,https://www.eliteprospects.com/player/10212/paul-stastny,2022-2021,nhl,Paul Stastny ,C
+379,Erik Johnson (D),Colorado Avalanche,3,0,1,1,0.33,2,2,https://www.eliteprospects.com/player/9207/erik-johnson,2022-2021,nhl,Erik Johnson ,D
+380,Ty Dellandrea (C/RW),Dallas Stars,3,0,1,1,0.33,2,2,https://www.eliteprospects.com/player/399353/ty-dellandrea,2022-2021,nhl,Ty Dellandrea ,C/RW
+381,Teuvo Teräväinen (W/C),Carolina Hurricanes,3,0,1,1,0.33,2,3,https://www.eliteprospects.com/player/44567/teuvo-teravainen,2022-2021,nhl,Teuvo Teräväinen ,W/C
+382,Milan Lucic (LW),Calgary Flames,3,0,1,1,0.33,4,2,https://www.eliteprospects.com/player/11104/milan-lucic,2022-2021,nhl,Milan Lucic ,LW
+383,Esa Lindell (D),Dallas Stars,3,0,1,1,0.33,4,3,https://www.eliteprospects.com/player/50019/esa-lindell,2022-2021,nhl,Esa Lindell ,D
+384,Thomas Chabot (D),Ottawa Senators,3,0,1,1,0.33,4,-1,https://www.eliteprospects.com/player/213607/thomas-chabot,2022-2021,nhl,Thomas Chabot ,D
+385,Henri Jokiharju (D),Buffalo Sabres,3,0,1,1,0.33,4,3,https://www.eliteprospects.com/player/277056/henri-jokiharju,2022-2021,nhl,Henri Jokiharju ,D
+386,Peyton Krebs (C/LW),Buffalo Sabres,3,0,1,1,0.33,4,0,https://www.eliteprospects.com/player/322178/peyton-krebs,2022-2021,nhl,Peyton Krebs ,C/LW
+387,Jonas Brodin (D),Minnesota Wild,3,0,1,1,0.33,6,-6,https://www.eliteprospects.com/player/19980/jonas-brodin,2022-2021,nhl,Jonas Brodin ,D
+388,Ryan Hartman (RW/C),Minnesota Wild,3,0,1,1,0.33,6,-5,https://www.eliteprospects.com/player/90345/ryan-hartman,2022-2021,nhl,Ryan Hartman ,RW/C
+389,Jeff Petry (D),Pittsburgh Penguins,3,0,1,1,0.33,8,2,https://www.eliteprospects.com/player/12265/jeff-petry,2022-2021,nhl,Jeff Petry ,D
+390,Ilya Lyubushkin (D),Buffalo Sabres,3,0,1,1,0.33,8,1,https://www.eliteprospects.com/player/123109/ilya-lyubushkin,2022-2021,nhl,Ilya Lyubushkin ,D
+391,Ryan Donato (C/LW),Seattle Kraken,3,0,1,1,0.33,8,1,https://www.eliteprospects.com/player/195235/ryan-donato,2022-2021,nhl,Ryan Donato ,C/LW
+392,Andreas Athanasiou (C/W),Chicago Blackhawks,3,0,1,1,0.33,12,-1,https://www.eliteprospects.com/player/86009/andreas-athanasiou,2022-2021,nhl,Andreas Athanasiou ,C/W
+393,David Savard (D),Montréal Canadiens,4,0,1,1,0.25,0,-3,https://www.eliteprospects.com/player/32878/david-savard,2022-2021,nhl,David Savard ,D
+394,Oskar Lindblom (LW/RW),San Jose Sharks,4,0,1,1,0.25,0,-4,https://www.eliteprospects.com/player/86181/oskar-lindblom,2022-2021,nhl,Oskar Lindblom ,LW/RW
+395,Mike Reilly (D),Boston Bruins,4,0,1,1,0.25,0,1,https://www.eliteprospects.com/player/106295/mike-reilly,2022-2021,nhl,Mike Reilly ,D
+396,Eric Robinson (LW),Columbus Blue Jackets,4,0,1,1,0.25,0,-2,https://www.eliteprospects.com/player/206755/eric-robinson,2022-2021,nhl,Eric Robinson ,LW
+397,Mark Giordano (D),Toronto Maple Leafs,4,0,1,1,0.25,2,3,https://www.eliteprospects.com/player/9161/mark-giordano,2022-2021,nhl,Mark Giordano ,D
+398,Kevin Shattenkirk (D),Anaheim Ducks,4,0,1,1,0.25,2,0,https://www.eliteprospects.com/player/11460/kevin-shattenkirk,2022-2021,nhl,Kevin Shattenkirk ,D
+399,Dmitri Kulikov (D),Anaheim Ducks,4,0,1,1,0.25,2,-5,https://www.eliteprospects.com/player/11866/dmitri-kulikov,2022-2021,nhl,Dmitri Kulikov ,D
+400,Mike Hoffman (LW/C),Montréal Canadiens,4,0,1,1,0.25,2,-1,https://www.eliteprospects.com/player/18800/mike-hoffman,2022-2021,nhl,Mike Hoffman ,LW/C
+401,T.J. Brodie (D),Toronto Maple Leafs,4,0,1,1,0.25,2,-2,https://www.eliteprospects.com/player/19170/t.j.-brodie,2022-2021,nhl,T.J. Brodie ,D
+402,Brayden McNabb (D),Vegas Golden Knights,4,0,1,1,0.25,2,3,https://www.eliteprospects.com/player/31079/brayden-mcnabb,2022-2021,nhl,Brayden McNabb ,D
+403,Cam Fowler (D),Anaheim Ducks,4,0,1,1,0.25,2,1,https://www.eliteprospects.com/player/31261/cam-fowler,2022-2021,nhl,Cam Fowler ,D
+404,Alexander Kerfoot (C/LW),Toronto Maple Leafs,4,0,1,1,0.25,2,1,https://www.eliteprospects.com/player/59968/alexander-kerfoot,2022-2021,nhl,Alexander Kerfoot ,C/LW
+405,Martin Fehérváry (D),Washington Capitals,4,0,1,1,0.25,2,1,https://www.eliteprospects.com/player/274991/martin-fehervary,2022-2021,nhl,Martin Fehérváry ,D
+406,Rasmus Sandin (D),Toronto Maple Leafs,4,0,1,1,0.25,2,2,https://www.eliteprospects.com/player/289453/rasmus-sandin,2022-2021,nhl,Rasmus Sandin ,D
+407,Jordan Harris (D),Montréal Canadiens,4,0,1,1,0.25,2,2,https://www.eliteprospects.com/player/321687/jordan-harris,2022-2021,nhl,Jordan Harris ,D
+408,Nils Höglander (LW/RW),Vancouver Canucks,4,0,1,1,0.25,2,0,https://www.eliteprospects.com/player/311906/nils-hoglander,2022-2021,nhl,Nils Höglander ,LW/RW
+409,Jake Muzzin (D),Toronto Maple Leafs,4,0,1,1,0.25,2,0,https://www.eliteprospects.com/player/13614/jake-muzzin,2022-2021,nhl,Jake Muzzin ,D
+410,Phil Kessel (RW/C),Vegas Golden Knights,4,0,1,1,0.25,4,0,https://www.eliteprospects.com/player/8793/phil-kessel,2022-2021,nhl,Phil Kessel ,RW/C
+411,Mathieu Olivier (RW/LW),Columbus Blue Jackets,4,0,1,1,0.25,5,0,https://www.eliteprospects.com/player/213604/mathieu-olivier,2022-2021,nhl,Mathieu Olivier ,RW/LW
+412,Carson Soucy (D),Seattle Kraken,4,0,1,1,0.25,6,2,https://www.eliteprospects.com/player/107449/carson-soucy,2022-2021,nhl,Carson Soucy ,D
+413,Max Jones (LW/RW),Anaheim Ducks,4,0,1,1,0.25,6,-2,https://www.eliteprospects.com/player/233448/max-jones,2022-2021,nhl,Max Jones ,LW/RW
+414,Luke Schenn (D),Vancouver Canucks,4,0,1,1,0.25,7,2,https://www.eliteprospects.com/player/11400/luke-schenn,2022-2021,nhl,Luke Schenn ,D
+415,Will Borgen (D),Seattle Kraken,4,0,1,1,0.25,7,-2,https://www.eliteprospects.com/player/248330/will-borgen,2022-2021,nhl,Will Borgen ,D
+416,Arber Xhekaj (D),Montréal Canadiens,4,0,1,1,0.25,8,0,https://www.eliteprospects.com/player/424429/arber-xhekaj,2022-2021,nhl,Arber Xhekaj ,D
+417,Mattias Ekholm (D),Nashville Predators,5,0,1,1,0.20,0,1,https://www.eliteprospects.com/player/8373/mattias-ekholm,2022-2021,nhl,Mattias Ekholm ,D
+418,Colton Sissons (C/RW),Nashville Predators,5,0,1,1,0.20,0,0,https://www.eliteprospects.com/player/48393/colton-sissons,2022-2021,nhl,Colton Sissons ,C/RW
+419,Timo Meier (LW/RW),San Jose Sharks,5,0,1,1,0.20,0,-4,https://www.eliteprospects.com/player/95921/timo-meier,2022-2021,nhl,Timo Meier ,LW/RW
+420,Cole Smith (LW),Nashville Predators,5,0,1,1,0.20,4,1,https://www.eliteprospects.com/player/242238/cole-smith,2022-2021,nhl,Cole Smith ,LW
+421,Dante Fabbro (D),Nashville Predators,5,0,1,1,0.20,4,1,https://www.eliteprospects.com/player/247041/dante-fabbro,2022-2021,nhl,Dante Fabbro ,D
+422,Roman Josi (D),Nashville Predators,5,0,1,1,0.20,4,-2,https://www.eliteprospects.com/player/12668/roman-josi,2022-2021,nhl,Roman Josi ,D
+423,Matt Benning (D),San Jose Sharks,5,0,1,1,0.20,8,-6,https://www.eliteprospects.com/player/29261/matt-benning,2022-2021,nhl,Matt Benning ,D
+424,Markus Niemeläinen (D),Edmonton Oilers,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/175894/markus-niemelainen,2022-2021,nhl,Markus Niemeläinen ,D
+425,Sammy Blais (LW/RW),New York Rangers,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/213830/sammy-blais,2022-2021,nhl,Sammy Blais ,LW/RW
+426,Ilya Mikheyev (RW/LW),Vancouver Canucks,1,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/180935/ilya-mikheyev,2022-2021,nhl,Ilya Mikheyev ,RW/LW
+427,Hayden Hodgson (RW),Philadelphia Flyers,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/188193/hayden-hodgson,2022-2021,nhl,Hayden Hodgson ,RW
+428,Libor Hájek (D),New York Rangers,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/195023/libor-hajek,2022-2021,nhl,Libor Hájek ,D
+429,Noah Juulsen (D),Vancouver Canucks,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/199905/noah-juulsen,2022-2021,nhl,Noah Juulsen ,D
+430,Colton White (D),Anaheim Ducks,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/204911/colton-white,2022-2021,nhl,Colton White ,D
+431,Jesper Boqvist (C/LW),New Jersey Devils,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/212690/jesper-boqvist,2022-2021,nhl,Jesper Boqvist ,C/LW
+432,Noel Acciari (C),St. Louis Blues,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/214725/noel-acciari,2022-2021,nhl,Noel Acciari ,C
+433,Juuso Välimäki (D),Arizona Coyotes,1,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/221525/juuso-valimaki,2022-2021,nhl,Juuso Välimäki ,D
+434,Daniel Sprong (RW/LW),Seattle Kraken,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/231299/daniel-sprong,2022-2021,nhl,Daniel Sprong ,RW/LW
+435,Filip Zadina (RW/LW),Detroit Red Wings,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/236471/filip-zadina,2022-2021,nhl,Filip Zadina ,RW/LW
+436,Kieffer Bellows (LW/C),New York Islanders,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/247945/kieffer-bellows,2022-2021,nhl,Kieffer Bellows ,LW/C
+437,Jordan Kyrou (C/RW),St. Louis Blues,1,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/269034/jordan-kyrou,2022-2021,nhl,Jordan Kyrou ,C/RW
+438,Reese Johnson (C/RW),Chicago Blackhawks,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/279121/reese-johnson,2022-2021,nhl,Reese Johnson ,C/RW
+439,Vitali Kravtsov (RW),New York Rangers,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/379749/vitali-kravtsov,2022-2021,nhl,Vitali Kravtsov ,RW
+440,Nick Perbix (D),Tampa Bay Lightning,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/380612/nick-perbix,2022-2021,nhl,Nick Perbix ,D
+441,Gabriel Fortier (LW/C),Tampa Bay Lightning,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/335707/gabriel-fortier,2022-2021,nhl,Gabriel Fortier ,LW/C
+442,Alexei Toropchenko (RW),St. Louis Blues,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/312825/alexei-toropchenko,2022-2021,nhl,Alexei Toropchenko ,RW
+443,Mason Shaw (C/LW),Minnesota Wild,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/162926/mason-shaw,2022-2021,nhl,Mason Shaw ,C/LW
+444,Ondrej Kase (RW),Carolina Hurricanes,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/165006/ondrej-kase,2022-2021,nhl,Ondrej Kase ,RW
+445,Anton Strålman (D),Boston Bruins,1,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/4152/anton-stralman,2022-2021,nhl,Anton Strålman ,D
+446,Ryan O'Reilly (C),St. Louis Blues,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/14371/ryan-o-reilly,2022-2021,nhl,Ryan O'Reilly ,C
+447,Tyler Myers (D),Vancouver Canucks,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/17521/tyler-myers,2022-2021,nhl,Tyler Myers ,D
+448,Brandon Saad (LW/RW),St. Louis Blues,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/31264/brandon-saad,2022-2021,nhl,Brandon Saad ,LW/RW
+449,Nikita Zaitsev (D),Ottawa Senators,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/34773/nikita-zaitsev,2022-2021,nhl,Nikita Zaitsev ,D
+450,Nathan Beaulieu (D),Anaheim Ducks,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/37422/nathan-beaulieu,2022-2021,nhl,Nathan Beaulieu ,D
+451,Scott Harrington (D),San Jose Sharks,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/39653/scott-harrington,2022-2021,nhl,Scott Harrington ,D
+452,Buddy Robinson (RW),Chicago Blackhawks,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/76182/buddy-robinson,2022-2021,nhl,Buddy Robinson ,RW
+453,Ben Hutton (D),Vegas Golden Knights,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/78150/ben-hutton,2022-2021,nhl,Ben Hutton ,D
+454,Alexander Barabanov (LW/RW),San Jose Sharks,1,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/87913/alexander-barabanov,2022-2021,nhl,Alexander Barabanov ,LW/RW
+455,Colton Parayko (D),St. Louis Blues,1,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/89411/colton-parayko,2022-2021,nhl,Colton Parayko ,D
+456,Nikita Soshnikov (LW/RW),New York Islanders,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/94676/nikita-soshnikov,2022-2021,nhl,Nikita Soshnikov ,LW/RW
+457,Nathan Walker (LW),St. Louis Blues,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/101430/nathan-walker,2022-2021,nhl,Nathan Walker ,LW
+458,Michael McCarron (RW/C),Nashville Predators,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/135703/michael-mccarron,2022-2021,nhl,Michael McCarron ,RW/C
+459,Michael Amadio (C/W),Vegas Golden Knights,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/151385/michael-amadio,2022-2021,nhl,Michael Amadio ,C/W
+460,Nick Schmaltz (C/RW),Arizona Coyotes,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/156966/nick-schmaltz,2022-2021,nhl,Nick Schmaltz ,C/RW
+461,Dan Renouf (D),Boston Bruins,1,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/76892/dan-renouf,2022-2021,nhl,Dan Renouf ,D
+462,Nick Blankenburg (D),Columbus Blue Jackets,1,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/233484/nick-blankenburg,2022-2021,nhl,Nick Blankenburg ,D
+463,Alec Regula (D),Chicago Blackhawks,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/283940/alec-regula,2022-2021,nhl,Alec Regula ,D
+464,Olle Lycksell (W/C),Philadelphia Flyers,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/265290/olle-lycksell,2022-2021,nhl,Olle Lycksell ,W/C
+465,Dylan Coghlan (D),Carolina Hurricanes,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/247901/dylan-coghlan,2022-2021,nhl,Dylan Coghlan ,D
+466,Owen Tippett (RW/LW),Philadelphia Flyers,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/201664/owen-tippett,2022-2021,nhl,Owen Tippett ,RW/LW
+467,Niko Mikkola (D),St. Louis Blues,1,0,0,0,0.00,2,1,https://www.eliteprospects.com/player/94439/niko-mikkola,2022-2021,nhl,Niko Mikkola ,D
+468,Robert Bortuzzo (D),St. Louis Blues,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/12524/robert-bortuzzo,2022-2021,nhl,Robert Bortuzzo ,D
+469,Ian Cole (D),Tampa Bay Lightning,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/11456/ian-cole,2022-2021,nhl,Ian Cole ,D
+470,Zack MacEwen (C/RW),Philadelphia Flyers,1,0,0,0,0.00,4,0,https://www.eliteprospects.com/player/223475/zack-macewen,2022-2021,nhl,Zack MacEwen ,C/RW
+471,Nick Holden (D),Ottawa Senators,2,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/11700/nick-holden,2022-2021,nhl,Nick Holden ,D
+472,Jack Quinn (RW/LW),Buffalo Sabres,2,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/336828/jack-quinn,2022-2021,nhl,Jack Quinn ,RW/LW
+473,Shane Wright (C),Seattle Kraken,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/526239/shane-wright,2022-2021,nhl,Shane Wright ,C
+474,Jackson Cates (C),Philadelphia Flyers,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/353776/jackson-cates,2022-2021,nhl,Jackson Cates ,C
+475,Joe Veleno (C),Detroit Red Wings,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/271713/joe-veleno,2022-2021,nhl,Joe Veleno ,C
+476,Conor Timmins (D),Arizona Coyotes,2,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/267584/conor-timmins,2022-2021,nhl,Conor Timmins ,D
+477,Mason Appleton (C/RW),Winnipeg Jets,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/266919/mason-appleton,2022-2021,nhl,Mason Appleton ,C/RW
+478,Brett Leason (RW),Anaheim Ducks,2,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/257755/brett-leason,2022-2021,nhl,Brett Leason ,RW
+479,Simon Benoît (D),Anaheim Ducks,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/254891/simon-benoit,2022-2021,nhl,Simon Benoît ,D
+480,Cole Perfetti (C/LW),Winnipeg Jets,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/201940/cole-perfetti,2022-2021,nhl,Cole Perfetti ,C/LW
+481,Neal Pionk (D),Winnipeg Jets,2,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/196583/neal-pionk,2022-2021,nhl,Neal Pionk ,D
+482,Devin Shore (C),Edmonton Oilers,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/149937/devin-shore,2022-2021,nhl,Devin Shore ,C
+483,Derek Ryan (C/RW),Edmonton Oilers,2,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/67660/derek-ryan,2022-2021,nhl,Derek Ryan ,C/RW
+484,Dylan DeMelo (D),Winnipeg Jets,2,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/45603/dylan-demelo,2022-2021,nhl,Dylan DeMelo ,D
+485,Nate Schmidt (D),Winnipeg Jets,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/38039/nate-schmidt,2022-2021,nhl,Nate Schmidt ,D
+486,Brenden Dillon (D),Winnipeg Jets,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/23790/brenden-dillon,2022-2021,nhl,Brenden Dillon ,D
+487,Zach Sanford (LW),Nashville Predators,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/242077/zach-sanford,2022-2021,nhl,Zach Sanford ,LW
+488,Adam Lowry (C),Winnipeg Jets,2,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/45633/adam-lowry,2022-2021,nhl,Adam Lowry ,C
+489,Marco Rossi (C),Minnesota Wild,2,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/293179/marco-rossi,2022-2021,nhl,Marco Rossi ,C
+490,Nathan Bastian (RW/C),New Jersey Devils,2,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/245157/nathan-bastian,2022-2021,nhl,Nathan Bastian ,RW/C
+491,Rem Pitlick (C/RW),Montréal Canadiens,2,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/199968/rem-pitlick,2022-2021,nhl,Rem Pitlick ,C/RW
+492,Caleb Jones (D),Chicago Blackhawks,2,0,0,0,0.00,2,1,https://www.eliteprospects.com/player/199902/caleb-jones,2022-2021,nhl,Caleb Jones ,D
+493,Morgan Barron (C/LW),Winnipeg Jets,2,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/195024/morgan-barron,2022-2021,nhl,Morgan Barron ,C/LW
+494,Calvin de Haan (D),Carolina Hurricanes,2,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/23814/calvin-de-haan,2022-2021,nhl,Calvin de Haan ,D
+495,Brad Malone (C/LW),Edmonton Oilers,2,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/12188/brad-malone,2022-2021,nhl,Brad Malone ,C/LW
+496,Brandon Carlo (D),Boston Bruins,2,0,0,0,0.00,4,1,https://www.eliteprospects.com/player/120965/brandon-carlo,2022-2021,nhl,Brandon Carlo ,D
+497,Warren Foegele (LW/C),Edmonton Oilers,2,0,0,0,0.00,4,0,https://www.eliteprospects.com/player/210317/warren-foegele,2022-2021,nhl,Warren Foegele ,LW/C
+498,Logan Stanley (D),Winnipeg Jets,2,0,0,0,0.00,4,-1,https://www.eliteprospects.com/player/240108/logan-stanley,2022-2021,nhl,Logan Stanley ,D
+499,Mark Borowiecki (D),Nashville Predators,2,0,0,0,0.00,5,1,https://www.eliteprospects.com/player/19223/mark-borowiecki,2022-2021,nhl,Mark Borowiecki ,D
+500,Noah Gregor (C),San Jose Sharks,2,0,0,0,0.00,5,0,https://www.eliteprospects.com/player/162892/noah-gregor,2022-2021,nhl,Noah Gregor ,C
+501,Gustav Lindström (D),Detroit Red Wings,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/212379/gustav-lindstrom,2022-2021,nhl,Gustav Lindström ,D
+502,Nicolas Hague (D),Vegas Golden Knights,3,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/253977/nicolas-hague,2022-2021,nhl,Nicolas Hague ,D
+503,Philippe Myers (D),Tampa Bay Lightning,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/223515/philippe-myers,2022-2021,nhl,Philippe Myers ,D
+504,Michael McLeod (C),New Jersey Devils,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/240821/michael-mcleod,2022-2021,nhl,Michael McLeod ,C
+505,Morgan Geekie (C/RW),Seattle Kraken,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/247912/morgan-geekie,2022-2021,nhl,Morgan Geekie ,C/RW
+506,Moritz Seider (D),Detroit Red Wings,3,0,0,0,0.00,0,2,https://www.eliteprospects.com/player/258987/moritz-seider,2022-2021,nhl,Moritz Seider ,D
+507,Denis Guryanov (RW),Dallas Stars,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/263964/denis-guryanov,2022-2021,nhl,Denis Guryanov ,RW
+508,Adam Boqvist (D),Columbus Blue Jackets,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/265684/adam-boqvist,2022-2021,nhl,Adam Boqvist ,D
+509,John Marino (D),New Jersey Devils,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/278675/john-marino,2022-2021,nhl,John Marino ,D
+510,Connor Dewar (C),Minnesota Wild,3,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/283843/connor-dewar,2022-2021,nhl,Connor Dewar ,C
+511,Ryan Poehling (C),Pittsburgh Penguins,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/288045/ryan-poehling,2022-2021,nhl,Ryan Poehling ,C
+512,Evan Bouchard (D),Edmonton Oilers,3,0,0,0,0.00,0,-4,https://www.eliteprospects.com/player/300591/evan-bouchard,2022-2021,nhl,Evan Bouchard ,D
+513,Cole Koepke (LW),Tampa Bay Lightning,3,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/300846/cole-koepke,2022-2021,nhl,Cole Koepke ,LW
+514,Alex Newhook (C/LW),Colorado Avalanche,3,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/320307/alex-newhook,2022-2021,nhl,Alex Newhook ,C/LW
+515,Barrett Hayton (C/LW),Arizona Coyotes,3,0,0,0,0.00,0,-5,https://www.eliteprospects.com/player/317885/barrett-hayton,2022-2021,nhl,Barrett Hayton ,C/LW
+516,Joel Farabee (LW),Philadelphia Flyers,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/334036/joel-farabee,2022-2021,nhl,Joel Farabee ,LW
+517,Dylan Holloway (LW/C),Edmonton Oilers,3,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/322111/dylan-holloway,2022-2021,nhl,Dylan Holloway ,LW/C
+518,Filip Roos (D),Chicago Blackhawks,3,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/344180/filip-roos,2022-2021,nhl,Filip Roos ,D
+519,Owen Power (D),Buffalo Sabres,3,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/504240/owen-power,2022-2021,nhl,Owen Power ,D
+520,Casey Cizikas (C),New York Islanders,3,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/14960/casey-cizikas,2022-2021,nhl,Casey Cizikas ,C
+521,Alex Goligoski (D),Minnesota Wild,3,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/9435/alex-goligoski,2022-2021,nhl,Alex Goligoski ,D
+522,Jordan Staal (C),Carolina Hurricanes,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/10157/jordan-staal,2022-2021,nhl,Jordan Staal ,C
+523,Trevor Lewis (C/RW),Calgary Flames,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/10461/trevor-lewis,2022-2021,nhl,Trevor Lewis ,C/RW
+524,Jesper Fast (RW),Carolina Hurricanes,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/10967/jesper-fast,2022-2021,nhl,Jesper Fast ,RW
+525,Josh Bailey (RW/C),New York Islanders,3,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/14013/josh-bailey,2022-2021,nhl,Josh Bailey ,RW/C
+526,Rasmus Asplund (C/W),Buffalo Sabres,3,0,0,0,0.00,0,2,https://www.eliteprospects.com/player/139616/rasmus-asplund,2022-2021,nhl,Rasmus Asplund ,C/W
+527,Kyle Palmieri (RW),New York Islanders,3,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/17508/kyle-palmieri,2022-2021,nhl,Kyle Palmieri ,RW
+528,Luke Glendening (C/RW),Dallas Stars,3,0,0,0,0.00,0,2,https://www.eliteprospects.com/player/38233/luke-glendening,2022-2021,nhl,Luke Glendening ,C/RW
+529,Christopher Tanev (D),Calgary Flames,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/39601/christopher-tanev,2022-2021,nhl,Christopher Tanev ,D
+530,Lukas Sedlak (C/LW),Colorado Avalanche,3,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/56037/lukas-sedlak,2022-2021,nhl,Lukas Sedlak ,C/LW
+531,Nick Seeler (D),Philadelphia Flyers,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/107099/nick-seeler,2022-2021,nhl,Nick Seeler ,D
+532,Frédérick Gaudreau (C),Minnesota Wild,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/129032/frederick-gaudreau,2022-2021,nhl,Frédérick Gaudreau ,C
+533,Colin Blackwell (C/W),Chicago Blackhawks,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/128394/colin-blackwell,2022-2021,nhl,Colin Blackwell ,C/W
+534,Josh Archibald (RW/LW),Pittsburgh Penguins,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/122788/josh-archibald,2022-2021,nhl,Josh Archibald ,RW/LW
+535,Travis Sanheim (D),Philadelphia Flyers,3,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/120938/travis-sanheim,2022-2021,nhl,Travis Sanheim ,D
+536,Dysin Mayo (D),Arizona Coyotes,3,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/120638/dysin-mayo,2022-2021,nhl,Dysin Mayo ,D
+537,Karson Kuhlman (C/RW),Seattle Kraken,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/118663/karson-kuhlman,2022-2021,nhl,Karson Kuhlman ,C/RW
+538,Carter Verhaeghe (C/LW),Florida Panthers,3,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/116967/carter-verhaeghe,2022-2021,nhl,Carter Verhaeghe ,C/LW
+539,Brock McGinn (LW/RW),Pittsburgh Penguins,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/76486/brock-mcginn,2022-2021,nhl,Brock McGinn ,LW/RW
+540,Robert Hägg (D),Detroit Red Wings,3,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/27397/robert-hagg,2022-2021,nhl,Robert Hägg ,D
+541,MacKenzie Entwistle (RW/C),Chicago Blackhawks,3,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/273678/mackenzie-entwistle,2022-2021,nhl,MacKenzie Entwistle ,RW/C
+542,Jacob Bryson (D),Buffalo Sabres,3,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/253923/jacob-bryson,2022-2021,nhl,Jacob Bryson ,D
+543,Brandon Duhaime (RW/LW),Minnesota Wild,3,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/202463/brandon-duhaime,2022-2021,nhl,Brandon Duhaime ,RW/LW
+544,Noah Hanifin (D),Calgary Flames,3,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/177710/noah-hanifin,2022-2021,nhl,Noah Hanifin ,D
+545,Josh Mahura (D),Florida Panthers,3,0,0,0,0.00,2,2,https://www.eliteprospects.com/player/166669/josh-mahura,2022-2021,nhl,Josh Mahura ,D
+546,Jesse Puljujärvi (RW),Edmonton Oilers,3,0,0,0,0.00,2,-4,https://www.eliteprospects.com/player/152117/jesse-puljujarvi,2022-2021,nhl,Jesse Puljujärvi ,RW
+547,Radek Faksa (C),Dallas Stars,3,0,0,0,0.00,2,2,https://www.eliteprospects.com/player/98300/radek-faksa,2022-2021,nhl,Radek Faksa ,C
+548,Kurtis MacDermid (D),Colorado Avalanche,3,0,0,0,0.00,2,1,https://www.eliteprospects.com/player/98183/kurtis-macdermid,2022-2021,nhl,Kurtis MacDermid ,D
+549,Jujhar Khaira (LW/C),Chicago Blackhawks,3,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/93577/jujhar-khaira,2022-2021,nhl,Jujhar Khaira ,LW/C
+550,Nick Cousins (C/LW),Florida Panthers,3,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/45550/nick-cousins,2022-2021,nhl,Nick Cousins ,C/LW
+551,Jan Rutta (D),Pittsburgh Penguins,3,0,0,0,0.00,2,3,https://www.eliteprospects.com/player/18090/jan-rutta,2022-2021,nhl,Jan Rutta ,D
+552,Jarred Tinordi (D),Chicago Blackhawks,3,0,0,0,0.00,2,1,https://www.eliteprospects.com/player/20706/jarred-tinordi,2022-2021,nhl,Jarred Tinordi ,D
+553,Zac Jones (D),New York Rangers,3,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/364649/zac-jones,2022-2021,nhl,Zac Jones ,D
+554,Alexander Romanov (D),New York Islanders,3,0,0,0,0.00,2,2,https://www.eliteprospects.com/player/396529/alexander-romanov,2022-2021,nhl,Alexander Romanov ,D
+555,Mattias Samuelsson (D),Buffalo Sabres,3,0,0,0,0.00,2,1,https://www.eliteprospects.com/player/325127/mattias-samuelsson,2022-2021,nhl,Mattias Samuelsson ,D
+556,Marc Staal (D),Florida Panthers,3,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/9183/marc-staal,2022-2021,nhl,Marc Staal ,D
+557,Jamie Benn (LW),Dallas Stars,3,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/15399/jamie-benn,2022-2021,nhl,Jamie Benn ,LW
+558,Erik Haula (LW/C),New Jersey Devils,3,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/16042/erik-haula,2022-2021,nhl,Erik Haula ,LW/C
+559,Travis Hamonic (D),Ottawa Senators,3,0,0,0,0.00,2,1,https://www.eliteprospects.com/player/17519/travis-hamonic,2022-2021,nhl,Travis Hamonic ,D
+560,Zack Kassian (RW),Arizona Coyotes,3,0,0,0,0.00,2,-3,https://www.eliteprospects.com/player/15390/zack-kassian,2022-2021,nhl,Zack Kassian ,RW
+561,Brett Kulak (D),Edmonton Oilers,3,0,0,0,0.00,4,1,https://www.eliteprospects.com/player/88617/brett-kulak,2022-2021,nhl,Brett Kulak ,D
+562,Jack McBain (C),Arizona Coyotes,3,0,0,0,0.00,4,0,https://www.eliteprospects.com/player/363685/jack-mcbain,2022-2021,nhl,Jack McBain ,C
+563,Nikita Zadorov (D),Calgary Flames,3,0,0,0,0.00,4,3,https://www.eliteprospects.com/player/108648/nikita-zadorov,2022-2021,nhl,Nikita Zadorov ,D
+564,Logan O'Connor (RW),Colorado Avalanche,3,0,0,0,0.00,4,2,https://www.eliteprospects.com/player/62327/logan-o-connor,2022-2021,nhl,Logan O'Connor ,RW
+565,Troy Stecher (D),Arizona Coyotes,3,0,0,0,0.00,4,-4,https://www.eliteprospects.com/player/59042/troy-stecher,2022-2021,nhl,Troy Stecher ,D
+566,Connor Murphy (D),Chicago Blackhawks,3,0,0,0,0.00,4,0,https://www.eliteprospects.com/player/45417/connor-murphy,2022-2021,nhl,Connor Murphy ,D
+567,Tomas Tatar (LW/RW),New Jersey Devils,3,0,0,0,0.00,4,-2,https://www.eliteprospects.com/player/17750/tomas-tatar,2022-2021,nhl,Tomas Tatar ,LW/RW
+568,Alexander Edler (D),Los Angeles Kings,3,0,0,0,0.00,4,0,https://www.eliteprospects.com/player/4081/alexander-edler,2022-2021,nhl,Alexander Edler ,D
+569,Jalen Chatfield (D),Carolina Hurricanes,3,0,0,0,0.00,5,-1,https://www.eliteprospects.com/player/205562/jalen-chatfield,2022-2021,nhl,Jalen Chatfield ,D
+570,Evan Rodrigues (C/W),Colorado Avalanche,3,0,0,0,0.00,6,-3,https://www.eliteprospects.com/player/62525/evan-rodrigues,2022-2021,nhl,Evan Rodrigues ,C/W
+571,Jérémy Lauzon (D),Nashville Predators,3,0,0,0,0.00,6,-1,https://www.eliteprospects.com/player/213715/jeremy-lauzon,2022-2021,nhl,Jérémy Lauzon ,D
+572,Justin Braun (D),Philadelphia Flyers,3,0,0,0,0.00,7,0,https://www.eliteprospects.com/player/15033/justin-braun,2022-2021,nhl,Justin Braun ,D
+573,Liam O'Brien (C/LW),Arizona Coyotes,3,0,0,0,0.00,7,0,https://www.eliteprospects.com/player/84724/liam-o-brien,2022-2021,nhl,Liam O'Brien ,C/LW
+574,Parker Kelly (LW/C),Ottawa Senators,3,0,0,0,0.00,7,0,https://www.eliteprospects.com/player/258162/parker-kelly,2022-2021,nhl,Parker Kelly ,LW/C
+575,Colin Miller (D),Dallas Stars,3,0,0,0,0.00,8,3,https://www.eliteprospects.com/player/61228/colin-miller,2022-2021,nhl,Colin Miller ,D
+576,Nicolas Deslauriers (LW/D),Philadelphia Flyers,3,0,0,0,0.00,10,0,https://www.eliteprospects.com/player/37437/nicolas-deslauriers,2022-2021,nhl,Nicolas Deslauriers ,LW/D
+577,Brendan Smith (D),New Jersey Devils,3,0,0,0,0.00,11,-3,https://www.eliteprospects.com/player/12506/brendan-smith,2022-2021,nhl,Brendan Smith ,D
+578,Christian Dvorak (LW/C),Montréal Canadiens,4,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/194889/christian-dvorak,2022-2021,nhl,Christian Dvorak ,LW/C
+579,Nils Åman (C),Vancouver Canucks,4,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/343876/nils-aman,2022-2021,nhl,Nils Åman ,C
+580,Braden Schneider (D),New York Rangers,4,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/351820/braden-schneider,2022-2021,nhl,Braden Schneider ,D
+581,Juraj Slafkovský (LW),Montréal Canadiens,4,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/527423/juraj-slafkovsky,2022-2021,nhl,Juraj Slafkovský ,LW
+582,Alexei Protas (C),Washington Capitals,4,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/517438/alexei-protas,2022-2021,nhl,Alexei Protas ,C
+583,Andrew Peeke (D),Columbus Blue Jackets,4,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/291905/andrew-peeke,2022-2021,nhl,Andrew Peeke ,D
+584,Johnny Kovacevic (D),Montréal Canadiens,4,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/239820/johnny-kovacevic,2022-2021,nhl,Johnny Kovacevic ,D
+585,Jack Roslovic (C/RW),Columbus Blue Jackets,4,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/226309/jack-roslovic,2022-2021,nhl,Jack Roslovic ,C/RW
+586,Jake Bean (D),Columbus Blue Jackets,4,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/199660/jake-bean,2022-2021,nhl,Jake Bean ,D
+587,Jake Evans (C/RW),Montréal Canadiens,4,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/152048/jake-evans,2022-2021,nhl,Jake Evans ,C/RW
+588,Pierre Engvall (LW/RW),Toronto Maple Leafs,4,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/147720/pierre-engvall,2022-2021,nhl,Pierre Engvall ,LW/RW
+589,Jimmy Vesey (LW),New York Rangers,4,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/121865/jimmy-vesey,2022-2021,nhl,Jimmy Vesey ,LW
+590,Carl Grundström (RW/LW),Los Angeles Kings,4,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/113516/carl-grundstrom,2022-2021,nhl,Carl Grundström ,RW/LW
+591,Jakub Zboril (D),Boston Bruins,4,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/112379/jakub-zboril,2022-2021,nhl,Jakub Zboril ,D
+592,Zach Aston-Reese (C/W),Toronto Maple Leafs,4,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/98068/zach-aston-reese,2022-2021,nhl,Zach Aston-Reese ,C/W
+593,Connor Brown (RW),Washington Capitals,4,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/97341/connor-brown,2022-2021,nhl,Connor Brown ,RW
+594,Adam Henrique (C/LW),Anaheim Ducks,4,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/19043/adam-henrique,2022-2021,nhl,Adam Henrique ,C/LW
+595,Yevgeni Dadonov (RW/LW),Montréal Canadiens,4,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/11859/yevgeni-dadonov,2022-2021,nhl,Yevgeni Dadonov ,RW/LW
+596,Pierre-Édouard Bellemare (C/LW),Tampa Bay Lightning,4,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/8339/pierre-edouard-bellemare,2022-2021,nhl,Pierre-Édouard Bellemare ,C/LW
+597,Dmitri Orlov (D),Washington Capitals,4,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/17758/dmitri-orlov,2022-2021,nhl,Dmitri Orlov ,D
+598,Chris Wideman (D),Montréal Canadiens,4,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/38081/chris-wideman,2022-2021,nhl,Chris Wideman ,D
+599,Garnet Hathaway (RW/LW),Washington Capitals,4,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/75018/garnet-hathaway,2022-2021,nhl,Garnet Hathaway ,RW/LW
+600,Sean Walker (D),Los Angeles Kings,4,0,0,0,0.00,2,1,https://www.eliteprospects.com/player/160791/sean-walker,2022-2021,nhl,Sean Walker ,D
+601,Erik Cernak (D),Tampa Bay Lightning,4,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/166368/erik-cernak,2022-2021,nhl,Erik Cernak ,D
+602,Dakota Joshua (C),Vancouver Canucks,4,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/194948/dakota-joshua,2022-2021,nhl,Dakota Joshua ,C
+603,Jamie Drysdale (D),Anaheim Ducks,4,0,0,0,0.00,2,-3,https://www.eliteprospects.com/player/201868/jamie-drysdale,2022-2021,nhl,Jamie Drysdale ,D
+604,Riley Stillman (D),Vancouver Canucks,4,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/252469/riley-stillman,2022-2021,nhl,Riley Stillman ,D
+605,Nick Paul (LW/C),Tampa Bay Lightning,4,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/149617/nick-paul,2022-2021,nhl,Nick Paul ,LW/C
+606,Nicolas Aubé-Kubel (RW/C),Toronto Maple Leafs,4,0,0,0,0.00,4,-2,https://www.eliteprospects.com/player/151146/nicolas-aube-kubel,2022-2021,nhl,Nicolas Aubé-Kubel ,RW/C
+607,Brandon Hagel (LW),Tampa Bay Lightning,4,0,0,0,0.00,4,-2,https://www.eliteprospects.com/player/161843/brandon-hagel,2022-2021,nhl,Brandon Hagel ,LW
+608,Tomas Nosek (LW/C),Boston Bruins,4,0,0,0,0.00,4,2,https://www.eliteprospects.com/player/102439/tomas-nosek,2022-2021,nhl,Tomas Nosek ,LW/C
+609,Jamie Oleksiak (D),Seattle Kraken,4,0,0,0,0.00,4,-2,https://www.eliteprospects.com/player/37832/jamie-oleksiak,2022-2021,nhl,Jamie Oleksiak ,D
+610,Viktor Arvidsson (LW/RW),Los Angeles Kings,4,0,0,0,0.00,4,-3,https://www.eliteprospects.com/player/27484/viktor-arvidsson,2022-2021,nhl,Viktor Arvidsson ,LW/RW
+611,Brendan Gallagher (RW),Montréal Canadiens,4,0,0,0,0.00,4,-3,https://www.eliteprospects.com/player/25705/brendan-gallagher,2022-2021,nhl,Brendan Gallagher ,RW
+612,Alec Martinez (D),Vegas Golden Knights,4,0,0,0,0.00,4,0,https://www.eliteprospects.com/player/12531/alec-martinez,2022-2021,nhl,Alec Martinez ,D
+613,Pat Maroon (LW),Tampa Bay Lightning,4,0,0,0,0.00,5,-3,https://www.eliteprospects.com/player/12063/pat-maroon,2022-2021,nhl,Pat Maroon ,LW
+614,Ryan Reaves (RW),New York Rangers,4,0,0,0,0.00,5,-1,https://www.eliteprospects.com/player/14003/ryan-reaves,2022-2021,nhl,Ryan Reaves ,RW
+615,Cole Sillinger (C),Columbus Blue Jackets,4,0,0,0,0.00,6,-3,https://www.eliteprospects.com/player/201844/cole-sillinger,2022-2021,nhl,Cole Sillinger ,C
+616,Brandt Clarke (D),Los Angeles Kings,4,0,0,0,0.00,6,2,https://www.eliteprospects.com/player/336887/brandt-clarke,2022-2021,nhl,Brandt Clarke ,D
+617,Yanni Gourde (C/W),Seattle Kraken,4,0,0,0,0.00,7,-1,https://www.eliteprospects.com/player/37303/yanni-gourde,2022-2021,nhl,Yanni Gourde ,C/W
+618,Jonah Gadjovich (LW),San Jose Sharks,4,0,0,0,0.00,9,-1,https://www.eliteprospects.com/player/252476/jonah-gadjovich,2022-2021,nhl,Jonah Gadjovich ,LW
+619,Marc-Édouard Vlasic (D),San Jose Sharks,5,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/10218/marc-edouard-vlasic,2022-2021,nhl,Marc-Édouard Vlasic ,D
+620,Kevin Labanc (RW/LW),San Jose Sharks,5,0,0,0,0.00,0,-5,https://www.eliteprospects.com/player/133841/kevin-labanc,2022-2021,nhl,Kevin Labanc ,RW/LW
+621,Matt Nieto (LW/RW),San Jose Sharks,5,0,0,0,0.00,2,-4,https://www.eliteprospects.com/player/20723/matt-nieto,2022-2021,nhl,Matt Nieto ,LW/RW
+622,Alexandre Carrier (D),Nashville Predators,5,0,0,0,0.00,2,1,https://www.eliteprospects.com/player/151143/alexandre-carrier,2022-2021,nhl,Alexandre Carrier ,D
+623,Nick Bonino (C/LW),San Jose Sharks,5,0,0,0,0.00,2,-4,https://www.eliteprospects.com/player/14686/nick-bonino,2022-2021,nhl,Nick Bonino ,C/LW
+624,Radim Simek (D),San Jose Sharks,5,0,0,0,0.00,4,-5,https://www.eliteprospects.com/player/160567/radim-simek,2022-2021,nhl,Radim Simek ,D
+625,Yakov Trenin (C/LW),Nashville Predators,5,0,0,0,0.00,4,0,https://www.eliteprospects.com/player/277485/yakov-trenin,2022-2021,nhl,Yakov Trenin ,C/LW
+626,Blake Lizotte (C),Los Angeles Kings,5,0,0,0,0.00,4,0,https://www.eliteprospects.com/player/321198/blake-lizotte,2022-2021,nhl,Blake Lizotte ,C
+627,Sebastian Aho (D),New York Islanders,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/67208/sebastian-aho,2022-2021,nhl,Sebastian Aho ,D
+628,Mark Pysyk (D),Detroit Red Wings,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/23154/mark-pysyk,2022-2021,nhl,Mark Pysyk ,D
+629,Jacob MacDonald (D),Colorado Avalanche,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/60064/jacob-macdonald,2022-2021,nhl,Jacob MacDonald ,D
+630,Joel Edmundson (D),Montréal Canadiens,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/59478/joel-edmundson,2022-2021,nhl,Joel Edmundson ,D
+631,Markus Nutivaara (D),San Jose Sharks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/47273/markus-nutivaara,2022-2021,nhl,Markus Nutivaara ,D
+632,Micheal Ferland (LW/RW),Vancouver Canucks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/45473/micheal-ferland,2022-2021,nhl,Micheal Ferland ,LW/RW
+633,Jake McCabe (D),Chicago Blackhawks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/45419/jake-mccabe,2022-2021,nhl,Jake McCabe ,D
+634,Andrej Sustr (D),Minnesota Wild,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/44405/andrej-sustr,2022-2021,nhl,Andrej Sustr ,D
+635,Rasmus Ristolainen (D),Philadelphia Flyers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/43497/rasmus-ristolainen,2022-2021,nhl,Rasmus Ristolainen ,D
+636,Joel Armia (RW),Montréal Canadiens,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/40624/joel-armia,2022-2021,nhl,Joel Armia ,RW
+637,Chad Ruhwedel (D),Pittsburgh Penguins,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/37927/chad-ruhwedel,2022-2021,nhl,Chad Ruhwedel ,D
+638,Calle Rosén (D),St. Louis Blues,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/37021/calle-rosen,2022-2021,nhl,Calle Rosén ,D
+639,Riley Sheahan (C/LW),Buffalo Sabres,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/33929/riley-sheahan,2022-2021,nhl,Riley Sheahan ,C/LW
+640,Joel Hanley (D),Dallas Stars,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/33730/joel-hanley,2022-2021,nhl,Joel Hanley ,D
+641,Sean Couturier (C),Philadelphia Flyers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/32885/sean-couturier,2022-2021,nhl,Sean Couturier ,C
+642,Sam Carrick (C/RW),Anaheim Ducks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/32716/sam-carrick,2022-2021,nhl,Sam Carrick ,C/RW
+643,John Moore (D),Anaheim Ducks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/30901/john-moore,2022-2021,nhl,John Moore ,D
+644,Dylan Gambrell (C/RW),Ottawa Senators,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/192301/dylan-gambrell,2022-2021,nhl,Dylan Gambrell ,C/RW
+645,Teodors Blugers (C),Pittsburgh Penguins,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/108347/teodors-blugers,2022-2021,nhl,Teodors Blugers ,C
+646,Jordan Greenway (LW),Minnesota Wild,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/183455/jordan-greenway,2022-2021,nhl,Jordan Greenway ,LW
+647,Urho Vaakanainen (D),Anaheim Ducks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/180538/urho-vaakanainen,2022-2021,nhl,Urho Vaakanainen ,D
+648,Louie Belpedio (D),Philadelphia Flyers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/177686/louie-belpedio,2022-2021,nhl,Louie Belpedio ,D
+649,Casey Fitzgerald (D),Buffalo Sabres,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/177660/casey-fitzgerald,2022-2021,nhl,Casey Fitzgerald ,D
+650,Robby Fabbri (C/LW),Detroit Red Wings,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/156923/robby-fabbri,2022-2021,nhl,Robby Fabbri ,C/LW
+651,Tyler Benson (LW),Edmonton Oilers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/154220/tyler-benson,2022-2021,nhl,Tyler Benson ,LW
+652,Oliver Kylington (D),Calgary Flames,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/142238/oliver-kylington,2022-2021,nhl,Oliver Kylington ,D
+653,Corey Schueneman (D),Montréal Canadiens,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/118661/corey-schueneman,2022-2021,nhl,Corey Schueneman ,D
+654,Patrick Brown (C/RW),Philadelphia Flyers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/75038/patrick-brown,2022-2021,nhl,Patrick Brown ,C/RW
+655,Ross Johnston (LW),New York Islanders,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/106154/ross-johnston,2022-2021,nhl,Ross Johnston ,LW
+656,Anthony Duclair (W/C),Florida Panthers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/98665/anthony-duclair,2022-2021,nhl,Anthony Duclair ,W/C
+657,Tom Wilson (RW),Washington Capitals,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/98663/tom-wilson,2022-2021,nhl,Tom Wilson ,RW
+658,Matt Grzelcyk (D),Boston Bruins,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/90350/matt-grzelcyk,2022-2021,nhl,Matt Grzelcyk ,D
+659,Josh Leivo (LW/RW),St. Louis Blues,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/88692/josh-leivo,2022-2021,nhl,Josh Leivo ,LW/RW
+660,Jordan Oesterle (D),Detroit Red Wings,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/84700/jordan-oesterle,2022-2021,nhl,Jordan Oesterle ,D
+661,Nic Petan (C/W),Minnesota Wild,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/82305/nic-petan,2022-2021,nhl,Nic Petan ,C/W
+662,Mike Matheson (D),Montréal Canadiens,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/76333/mike-matheson,2022-2021,nhl,Mike Matheson ,D
+663,Jacob Peterson (C/LW),Dallas Stars,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/313350/jacob-peterson,2022-2021,nhl,Jacob Peterson ,C/LW
+664,Derick Brassard (C/LW),Ottawa Senators,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/9366/derick-brassard,2022-2021,nhl,Derick Brassard ,C/LW
+665,Artyom Anisimov (C),Philadelphia Flyers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/9300/artyom-anisimov,2022-2021,nhl,Artyom Anisimov ,C
+666,Brent Seabrook (D),Tampa Bay Lightning,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/8879/brent-seabrook,2022-2021,nhl,Brent Seabrook ,D
+667,Andrew Ladd (LW),Arizona Coyotes,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/6668/andrew-ladd,2022-2021,nhl,Andrew Ladd ,LW
+668,Carl Hagelin (LW),Washington Capitals,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/4567/carl-hagelin,2022-2021,nhl,Carl Hagelin ,LW
+669,Nicklas Bäckström (C),Washington Capitals,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/3682/nicklas-backstrom,2022-2021,nhl,Nicklas Bäckström ,C
+670,Eric Staal (C),Florida Panthers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/3656/eric-staal,2022-2021,nhl,Eric Staal ,C
+671,Nikolai Knyzhov (D),San Jose Sharks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/308784/nikolai-knyzhov,2022-2021,nhl,Nikolai Knyzhov ,D
+672,Jack Rathbone (D),Vancouver Canucks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/311766/jack-rathbone,2022-2021,nhl,Jack Rathbone ,D
+673,Shea Weber (D),Vegas Golden Knights,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/9505/shea-weber,2022-2021,nhl,Shea Weber ,D
+674,Connor Mackey (D),Calgary Flames,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/316315/connor-mackey,2022-2021,nhl,Connor Mackey ,D
+675,Philip Broberg (D),Edmonton Oilers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/349467/philip-broberg,2022-2021,nhl,Philip Broberg ,D
+676,Bobby Brink (RW),Philadelphia Flyers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/496724/bobby-brink,2022-2021,nhl,Bobby Brink ,RW
+677,Jalen Luypen (C/LW),Chicago Blackhawks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/476673/jalen-luypen,2022-2021,nhl,Jalen Luypen ,C/LW
+678,Nick Robertson (LW),Toronto Maple Leafs,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/359539/nick-robertson,2022-2021,nhl,Nick Robertson ,LW
+679,Connor McMichael (C),Washington Capitals,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/424496/connor-mcmichael,2022-2021,nhl,Connor McMichael ,C
+680,William Eklund (C/LW),San Jose Sharks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/394719/william-eklund,2022-2021,nhl,William Eklund ,C/LW
+681,Liam Foudy (C/RW),Columbus Blue Jackets,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/397650/liam-foudy,2022-2021,nhl,Liam Foudy ,C/RW
+682,Zach Bogosian (D),Tampa Bay Lightning,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/14440/zach-bogosian,2022-2021,nhl,Zach Bogosian ,D
+683,Jordie Benn (D),Toronto Maple Leafs,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/19742/jordie-benn,2022-2021,nhl,Jordie Benn ,D
+684,Cam Atkinson (RW),Philadelphia Flyers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/19166/cam-atkinson,2022-2021,nhl,Cam Atkinson ,RW
+685,Matt Irwin (D),Washington Capitals,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/18745/matt-irwin,2022-2021,nhl,Matt Irwin ,D
+686,Jake Gardiner (D),Carolina Hurricanes,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/18592/jake-gardiner,2022-2021,nhl,Jake Gardiner ,D
+687,Marco Scandella (D),St. Louis Blues,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/17520/marco-scandella,2022-2021,nhl,Marco Scandella ,D
+688,Oscar Klefbom (D),Edmonton Oilers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/16804/oscar-klefbom,2022-2021,nhl,Oscar Klefbom ,D
+689,Joonas Donskoi (RW/LW),Seattle Kraken,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/16039/joonas-donskoi,2022-2021,nhl,Joonas Donskoi ,RW/LW
+690,Paul Byron (LW/C),Montréal Canadiens,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/15036/paul-byron,2022-2021,nhl,Paul Byron ,LW/C
+691,Jon Merrill (D),Minnesota Wild,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/20712/jon-merrill,2022-2021,nhl,Jon Merrill ,D
+692,Ryan Ellis (D),Philadelphia Flyers,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/14012/ryan-ellis,2022-2021,nhl,Ryan Ellis ,D
+693,Wayne Simmonds (RW),Toronto Maple Leafs,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/12517/wayne-simmonds,2022-2021,nhl,Wayne Simmonds ,RW
+694,Max Pacioretty (LW),Carolina Hurricanes,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/12461/max-pacioretty,2022-2021,nhl,Max Pacioretty ,LW
+695,Brad Marchand (W/C),Boston Bruins,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/10439/brad-marchand,2022-2021,nhl,Brad Marchand ,W/C
+696,Darren Helm (C/LW),Colorado Avalanche,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/10438/darren-helm,2022-2021,nhl,Darren Helm ,C/LW
+697,Bryan Little (C),Arizona Coyotes,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/10426/bryan-little,2022-2021,nhl,Bryan Little ,C
+698,Gabriel Landeskog (LW/RW),Colorado Avalanche,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/10393/gabriel-landeskog,2022-2021,nhl,Gabriel Landeskog ,LW/RW
+699,Patrik Nemeth (D),Arizona Coyotes,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/10383/patrik-nemeth,2022-2021,nhl,Patrik Nemeth ,D
+700,Jakob Chychrun (D),Arizona Coyotes,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/243386/jakob-chychrun,2022-2021,nhl,Jakob Chychrun ,D
+701,Scott Perunovich (D),St. Louis Blues,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/300906/scott-perunovich,2022-2021,nhl,Scott Perunovich ,D
+702,Jack Studnicka (C),Boston Bruins,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/284096/jack-studnicka,2022-2021,nhl,Jack Studnicka ,C
+703,Jake Leschyshyn (C),Vegas Golden Knights,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/279125/jake-leschyshyn,2022-2021,nhl,Jake Leschyshyn ,C
+704,Jaret Anderson-Dolan (C/LW),Los Angeles Kings,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/278859/jaret-anderson-dolan,2022-2021,nhl,Jaret Anderson-Dolan ,C/LW
+705,Anthony Cirelli (C),Tampa Bay Lightning,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/274875/anthony-cirelli,2022-2021,nhl,Anthony Cirelli ,C
+706,Boris Katchouk (LW),Chicago Blackhawks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/269859/boris-katchouk,2022-2021,nhl,Boris Katchouk ,LW
+707,Michael Pezzetta (LW/C),Montréal Canadiens,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/269038/michael-pezzetta,2022-2021,nhl,Michael Pezzetta ,LW/C
+708,Kevin Bahl (D),New Jersey Devils,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/248583/kevin-bahl,2022-2021,nhl,Kevin Bahl ,D
+709,Logan Brown (C),St. Louis Blues,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/248391/logan-brown,2022-2021,nhl,Logan Brown ,C
+710,Jake Walman (D),Detroit Red Wings,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/248066/jake-walman,2022-2021,nhl,Jake Walman ,D
+711,Axel Jonsson Fjällby (LW),Winnipeg Jets,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/246070/axel-jonsson-fjallby,2022-2021,nhl,Axel Jonsson Fjällby ,LW
+712,Charlie McAvoy (D),Boston Bruins,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/245142/charlie-mcavoy,2022-2021,nhl,Charlie McAvoy ,D
+713,Joe Snively (LW),Washington Capitals,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/193445/joe-snively,2022-2021,nhl,Joe Snively ,LW
+714,Martin Kaut (RW),Colorado Avalanche,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/237068/martin-kaut,2022-2021,nhl,Martin Kaut ,RW
+715,Victor Mete (D),Toronto Maple Leafs,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/232703/victor-mete,2022-2021,nhl,Victor Mete ,D
+716,Adam Ruzicka (C),Calgary Flames,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/228366/adam-ruzicka,2022-2021,nhl,Adam Ruzicka ,C
+717,Kyle Capobianco (D),Winnipeg Jets,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/225186/kyle-capobianco,2022-2021,nhl,Kyle Capobianco ,D
+718,Timothy Liljegren (D),Toronto Maple Leafs,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/224910/timothy-liljegren,2022-2021,nhl,Timothy Liljegren ,D
+719,Travis Dermott (D),Vancouver Canucks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/214673/travis-dermott,2022-2021,nhl,Travis Dermott ,D
+720,Jacob Moverare (D),Los Angeles Kings,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/212726/jacob-moverare,2022-2021,nhl,Jacob Moverare ,D
+721,Dylan Samberg (D),Winnipeg Jets,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/201527/dylan-samberg,2022-2021,nhl,Dylan Samberg ,D
+722,Ian Mitchell (D),Chicago Blackhawks,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/201362/ian-mitchell,2022-2021,nhl,Ian Mitchell ,D
+723,Nolan Patrick (C),Vegas Golden Knights,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/201274/nolan-patrick,2022-2021,nhl,Nolan Patrick ,C
+724,Cale Fleury (D),Seattle Kraken,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/200710/cale-fleury,2022-2021,nhl,Cale Fleury ,D
+725,Ethan Bear (D),Carolina Hurricanes,-,-,-,-,-,-,-,https://www.eliteprospects.com/player/197561/ethan-bear,2022-2021,nhl,Ethan Bear ,D
