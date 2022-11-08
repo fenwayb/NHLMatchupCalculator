@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url("../images/nhl_logo.jpg");
+    background-size: 100% 200%;
+    text-align: center;
+    color: white;
+  }
+
+  body {
+    background-color:dimgray;
+  }
+
+  .div1 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+  }
+
+  .div2 {
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid red;
+    box-sizing: border-box;
+  }
