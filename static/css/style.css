@@ -1,25 +1,18 @@
 .jumbotron {
-    background-image: url("../images/nhl_logo.jpg");
+    background-image: url("../images/hockey_stadium.jpg");
     background-size: 100% 200%;
     text-align: center;
     color: white;
   }
 
   body {
-    background-color:dimgray;
+    background-color:#116466;
   }
 
-  .div1 {
-    width: 300px;
-    height: 100px;
-    border: 1px solid blue;
-    box-sizing: border-box;
+  .well {
+    background: #d9b08c;
   }
 
-  .div2 {
-    width: 300px;
-    height: 100px;
-    padding: 50px;
-    border: 1px solid red;
-    box-sizing: border-box;
+  .choose {
+    color: #2c3531;
   }
