@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url("../images/hockey_stadium.jpg");
+    background-size: 100% 200%;
+    text-align: center;
+    color: white;
+  }
+
+  body {
+    background-color:#116466;
+  }
+
+  .well {
+    background: #d9b08c;
+  }
+
+  .choose {
+    color: #2c3531;
+  }
