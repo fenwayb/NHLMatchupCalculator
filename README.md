@@ -11,7 +11,7 @@ The group of us first got together on the basis that we wanted to investigate da
 Our data can be categorized in two groups: *Live* data (current season stats) which is pulled from NHL.com's API and a Kaggle dataset which gives detailed game outcomes for the last 10+ seasons. Now, these two sources of data did not align perfectly so we needed to choose certain columns/features to omit. Below you will find our path for data exploration for a detailed process to merge the two. For instance, we figured that keeping "Goals" in our dataset would be too strong of a predictor so that has been removed from the model. 
 
 
-|team_id|franchiseId|shortName|teamName|abbreviation|link|
+|Team_ID|Franchise #|City|Team Name|abbreviation|API extenstion|
 |:---|:---|:---|:---|:---|:---|
 |1|23|New Jersey|Devils|NJD|/api/v1/teams/1|
 |4|16|Philadelphia|Flyers|PHI|/api/v1/teams/4|
