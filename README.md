@@ -8,7 +8,7 @@ A machine learning model to predict National Hockey League game outcomes based u
 The group of us first got together on the basis that we wanted to investigate data in the sports realm and as the 2022 NHL season is now underway, we decided that hockey would be our winner. Hockey is a sport filled with data from team overall stats to individual performance measures like actual time on the ice and plus-minus which measures the net outcome of a team's goal differential when a certain player is on the ice. We decided on building a Win/Loss predictor model as the group thought it would be a fun and informative new method to appreciate both the consistency and randomness of the sport.
 
 ## Dataset Description
-Our data can be categorized in two groups: *Live* data (current season stats) which is pulled from NHL.com's API and a Kaggle dataset which gives detailed game outcomes for the last 10+ seasons. Now, these two sources of data did not align perfectly so we needed to choose certain columns/features to omit. For instance, we figured that keeping "Goals" in our dataset would be too strong of a predictor so that has been removed from the model. 
+Our data can be categorized in two groups: *Live* data (current season stats) which is pulled from NHL.com's API and a Kaggle dataset which gives detailed game outcomes for the last 10+ seasons. Now, these two sources of data did not align perfectly so we needed to choose certain columns/features to omit. Below you will find our path for data exploration for a detailed process to merge the two. For instance, we figured that keeping "Goals" in our dataset would be too strong of a predictor so that has been removed from the model. 
 
 
 |team_id|franchiseId|shortName|teamName|abbreviation|link|
@@ -48,10 +48,12 @@ Our data can be categorized in two groups: *Live* data (current season stats) wh
 |11|35|Atlanta|Thrashers|ATL|/api/v1/teams/11|     
 
 Game and team statistics used to develop our machine learning model:
-* **Home or Away**: Home ice advantage is factor of course.
-* **Shooting Percentages**: Gotta put the biscuit on the basket.
+* **Home or Away**: Home ice advantage is factor, and our data arrived convienently split.
+* **Shooting Percentages**: Gotta put the biscuit on the basket, how accurate are you?
 * **PowerPlay Opportunities->Goals/Kills**: How often can they light the lamp with a man advantage and defend when they're down a player!
-* **Save Percentages**: Keepers gotta have some mitts.
+* **Save Percentages**: Keepers gotta have some mitts otherwise they'll get chirped all game long.
+* **Face-off Percentages**: League average may be ~50% but some do it better than others.
+* **Shots Totals**: Total shots per side, a larger influence in the equation.
 
 
 ## Outline of the Project
@@ -72,9 +74,18 @@ Game and team statistics used to develop our machine learning model:
     - Our game outcomes data has just 10 seasons of data whereas the NHL has been around since the early 20th century. One caveat in our favor is that the game has changed heavily since its first season over 100 years ago with the pace of play and overall team strategy.
     
 5. Recommendations for further analysis:
-    - More complex analysis can definitely be developed from our model. We can add a number of statistics to dive deeper such as figuring out the goals' weightedness in the model to only buffer outcomes rather than dominate. You could also add in the Goalie rosters to select a specific keeper for the matchup using their specific season stats versus the overall team.
+    - More complex analysis can definitely be developed from our model. We can add a number of statistics to dive deeper such as figuring out the goals' weightedness in the model to only buffer outcomes rather than dominate. You could also add in the Goalie rosters to select a specific keeper for the matchup using their individual season stats versus the overall team.
 
-    
+## Data Exploration:
+   - The csv files were imported into a Pandas DataFrame
+   - Dropped null values where games were missing stats or total goals equaled 0
+   - Replaced null values with means of each category
+   - Replaced "Home Won" with a binary output of 1 being true and 0 as false
+   - Removed overpowering/unneccessary statistics:
+       - Goals - the model was based on existing outcomes and keeping the goals in would have meant it would spit out whoever scored the most goals and declare the winner
+       - From the api and team stats we dropped head coaches, starting side, 
+   - Questionable outcomes - We looked for games with lower amounts of shots to look for incomplete data and found several which had unrealistic shooting percentages (100%) which we decided to remove.
+
 ## Data sources: 
 For this project we were able to find a dataset from Kaggle which contains team statistics for NHL teams dating back to the 2013 season. This dataset will give us a solid base of current NHL performance. Roster information is not included. In addition to the team stats, for expected game outcomes, we are using NHL.com's API which gives us a breakdown of every game up until the present day.
     
