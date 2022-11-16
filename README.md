@@ -78,8 +78,6 @@ Game and team statistics used to develop our machine learning model:
 For this project we were able to find a dataset from Kaggle which contains team statistics for NHL teams dating back to the 2013 season. This dataset will give us a solid base of current NHL performance. Roster information is not included. In addition to the team stats, for expected game outcomes, we are using NHL.com's API which gives us a breakdown of every game up until the present day.
     
 
-
-
     
 
 Communication Protocols:
