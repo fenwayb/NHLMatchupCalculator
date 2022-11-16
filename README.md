@@ -22,16 +22,16 @@ Our data can be categorized in two groups: *Live* data (current season stats) wh
 |3|10|NY Rangers|Rangers|NYR|/api/v1/teams/3|
 |5|17|Pittsburgh|Penguins|PIT|/api/v1/teams/5|
 |17|12|Detroit|Red Wings|DET|/api/v1/teams/17|
-|28	29|San Jose|Sharks|SJS|/api/v1/teams/28|
-|18	34|Nashville|Predators|NSH|/api/v1/teams/18|
+|28|29|San Jose|Sharks|SJS|/api/v1/teams/28|
+|18|34|Nashville|Predators|NSH|/api/v1/teams/18|
 |23|20|Vancouver|Canucks|VAN|/api/v1/teams/23|
 |16|11|Chicago|Blackhawks|CHI|/api/v1/teams/16|
-|9|30|Ottawa|Senators|OTT/api/v1/teams/9|
-|8|1|Montreal|Canadiens|MTL/api/v1/teams/8|
+|9|30|Ottawa|Senators|OTT|/api/v1/teams/9|
+|8|1|Montreal|Canadiens|MTL|/api/v1/teams/8|
 |30|37|Minnesota|Wild|MIN|/api/v1/teams/30|
 |15|24|Washington|Capitals|WSH|/api/v1/teams/15|
 |19|18|St Louis|Blues|STL|/api/v1/teams/19|
-|24|32|Anaheim|Ducks|ANA||/api/v1/teams/24|
+|24|32|Anaheim|Ducks|ANA|/api/v1/teams/24|
 |27|28|Phoenix|Coyotes|PHX|/api/v1/teams/27|
 |2|22|NY Islanders|Islanders|NYI|/api/v1/teams/2|
 |10|5|Toronto|Maple Leafs|TOR|/api/v1/teams/10|
