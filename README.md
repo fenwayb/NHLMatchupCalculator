@@ -52,7 +52,7 @@ Game and team statistics used to develop our machine learning model:
 * **Home or Away**: Home ice advantage is factor of course.
 * **Shooting Percentages**: Gotta put the biscuit on the basket.
 * **PowerPlay Opportunities->Goals/Kills**: How often can they light the lamp with a man advantage and defend!
-* **Save Percentages** Keepers gotta have some mitts.
+* **Save Percentages**: Keepers gotta have some mitts.
 
 
 ## Outline of the Project
