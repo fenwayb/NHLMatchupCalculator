@@ -79,6 +79,9 @@ For this project we were able to find a dataset from Kaggle which contains team 
     
 
     
+## Google Slide Presentation Link
+["NHL Matchup Predictor"]([https://www.kaggle.com/datasets/martinellis/nhl-game-data](https://docs.google.com/presentation/d/1n26DlacRmt59Nclu4okSfw0Xp7RwWT2tLPq71vet0VU/edit#slide=id.g18e76bc0ad7_0_10))
+
 
 Communication Protocols:
     We have agreed to meet both during class hours with added time on the front end as well as on Wednesdays on an as-needed basis based on team member availability.
