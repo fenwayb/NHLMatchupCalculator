@@ -18,7 +18,7 @@ def pull():
    #       home = id.home
    #       away = id.away
    
-   home_df, away_df, results = pull_all(home, away)
+   home_df, home_name, away_df, away_name, results = pull_all(home, away)
    # results = "Test Outcome"
    
    # if request.method == 'POST':
@@ -29,7 +29,7 @@ def pull():
    
    # return redirect('/', code=302)
    
-   return render_template('index.html',results = results)
+   return render_template('index.html',results = results, home_name=home_name, away_name=away_name)
    
 if __name__ == "__main__":
     app.run()
