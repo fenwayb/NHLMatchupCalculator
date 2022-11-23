@@ -7,13 +7,20 @@ app = Flask(__name__, template_folder = "template")
 def index():
    return render_template("index.html")
 
-@app.route("/pull", methods=["GET", "POST"])
+@app.route("/pull", methods=['GET', 'POST'])
 def pull():
-   if request.method == 'POST':
-         home = id.home
-         away = id.away
-   home_df, away_df, results = pull_all(home, away)
+   
+   # added this to grab the form Home and Away "fields"
+   home =request.form['Home']
+   away =request.form['Away']
 
+   # if request.method == 'POST':
+   #       home = id.home
+   #       away = id.away
+   
+   home_df, away_df, results = pull_all(home, away)
+   # results = "Test Outcome"
+   
    # if request.method == 'POST':
    #POST stuff
    #home_df to a table under home box
@@ -23,5 +30,6 @@ def pull():
    # return redirect('/', code=302)
    
    return render_template('index.html',results = results)
+   
 if __name__ == "__main__":
     app.run()

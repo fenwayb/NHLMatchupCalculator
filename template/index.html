@@ -29,7 +29,9 @@
                         <div class="col-md-4">
                             <div class="well">
                                 <strong>Home Team</strong>
-                                <select id="Home">
+                                <!-- added this line for beginning of form -->
+                                <form method="POST" action="/pull">
+                                <select name="Home">
                                     <option id="1">New Jersey Devils</option>
                                     <option id="2">New York Islanders</option>
                                     <option id="3">New York Rangers</option>
@@ -64,6 +66,8 @@
                                     <option id="53">Arizona Coyotes</option>
                                     <option id="54">Vegas Golden Knights</option>
                                 </select>
+                            
+                            
                             </div>
                         </div>
                         <div class="result">
@@ -74,9 +78,10 @@
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <div class="well">
+                            <div class="well" >
                                 <strong>Away Team</strong>
-                                <select id="Away">
+                                
+                                <select name="Away">
                                     <option id="1">New Jersey Devils</option>
                                     <option id="2">New York Islanders</option>
                                     <option id="3">New York Rangers</option>
@@ -111,11 +116,15 @@
                                     <option id="53">Arizona Coyotes</option>
                                     <option id="54">Vegas Golden Knights</option> 
                                 </select>
+                            <!-- added this submit button in place of previous btn -->
+                                <input type="submit" value = "Face-Off"> 
+                            <!-- end form for inputs -->
+                            </form>
                             </div>
                         </div>
-                        <div class="col-md-4 col-md-offset-4">
+                        <!-- <div class="col-md-4 col-md-offset-4">
                             <button class="btn btn-danger btn-lg btn-block" href="/pull" type="submit">Face-Off</button>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
