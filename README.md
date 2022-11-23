@@ -11,7 +11,7 @@ The group of us first got together on the basis that we wanted to investigate da
 ## Dataset Description
 Our data can be categorized in two groups: *Live* data (current season stats) which is pulled from NHL.com's API and a Kaggle dataset which gives detailed game outcomes for the last 10+ seasons. Now, these two sources of data did not align perfectly so we needed to choose certain columns/features to omit. For instance, we figured that keeping "Goals" in our dataset would be too strong of a predictor so that has been removed from the model. 
 
-
+## NHL Teams ID's and API Links
 |team_id|franchiseId|shortName|teamName|abbreviation|link|
 |:---|:---|:---|:---|:---|:---|
 |1|23|New Jersey|Devils|NJD|/api/v1/teams/1|
@@ -52,7 +52,7 @@ Game and team statistics used to develop our machine learning model:
 * **Home or Away**: Home ice advantage is factor of course.
 * **Shooting Percentages**: Gotta put the biscuit on the basket.
 * **PowerPlay Opportunities->Goals/Kills**: How often can they light the lamp with a man advantage and defend!
-* **Save Percentages** Keepers gotta have some mitts.
+* **Save Percentages**: Keepers gotta have some mitts.
 
 
 ## Outline of the Project
@@ -73,12 +73,17 @@ Game and team statistics used to develop our machine learning model:
 5. Recommendations for further analysis:
     - More complex analysis can definitely be developed from our model. We can add a number of statistics to dive deeper such as figuring out the goals.
 
+## Data Exploration
+   - The CSV files were imported into Pandas Dataframe
+   - Dropped null values and replaced them with the means of each category
+   - Further data cleaning looking at extremes of each feature and deciding whether to wipe out data or other action
+   - Removing unnecessary data: 
+   -    Goals for home/away have been removed due to being too strong
     
 ## Data sources: 
 For this project we were able to find a dataset from Kaggle which contains team statistics for NHL teams dating back to the 2013 season. This dataset will give us a solid base of current NHL performance. Roster information is not included. In addition to the team stats, for expected game outcomes, we are using NHL.com's API which gives us a breakdown of every game up until the present day.
     
 
     
-
-Communication Protocols:
-    We have agreed to meet both during class hours with added time on the front end as well as on Wednesdays on an as-needed basis based on team member availability.
+## Google Slide Presentation Link
+["NHL Matchup Predictor"](https://docs.google.com/presentation/d/1n26DlacRmt59Nclu4okSfw0Xp7RwWT2tLPq71vet0VU/edit#slide=id.g18e76bc0ad7_0_10)

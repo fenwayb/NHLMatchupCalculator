@@ -98,4 +98,3 @@ def pull_all(home, away):
     # cur.execute(f"INSERT INTO results VALUES {results}")
     # con.commit()
     return home_df, away_df, results
-
