@@ -1,5 +1,7 @@
 config.py
 pull.ipynb
+test.ipynb
+API_script_test.ipynb_checkpoint
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
