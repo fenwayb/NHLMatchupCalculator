@@ -29,7 +29,7 @@
                         <div class="col-md-4">
                             <div class="well">
                                 <strong>Home Team</strong>
-                                <select id="Home" onchange="optionChanged(this.value)">
+                                <select id="Home">
                                     <option id="1">New Jersey Devils</option>
                                     <option id="2">New York Islanders</option>
                                     <option id="3">New York Rangers</option>
@@ -69,14 +69,14 @@
                         <div class="result">
                             <div class="col-md-4">
                                 <div class="well">
-                                    <strong>Winner:</strong>
+                                    <strong>Winner: {{result}}</strong>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="well">
                                 <strong>Away Team</strong>
-                                <select id="Away" onchange="optionChanged(this.value)">
+                                <select id="Away">
                                     <option id="1">New Jersey Devils</option>
                                     <option id="2">New York Islanders</option>
                                     <option id="3">New York Rangers</option>
@@ -114,7 +114,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 col-md-offset-4">
-                            <button class="btn btn-danger btn-lg btn-block" type="submit">Face-Off</button>
+                            <button class="btn btn-danger btn-lg btn-block" href="/pull" type="submit">Face-Off</button>
                         </div>
                     </div>
                 </div>
