@@ -3,15 +3,13 @@ import requests
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
 import pickle
-import sqlalchemy
-import sqlite3
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
-from splinter import Browser
-from bs4 import BeautifulSoup as soup
-from webdriver_manager.chrome import ChromeDriverManager
+import os
 
+
+dirname = os.path.dirname(__file__)
+filename1 = os.path.join(dirname, 'Resources/X.csv')
+filename2 = os.path.join(dirname, 'Resources/team_info.csv')
+filename3 = os.path.join(dirname, 'Resources/HockeyMLmodel.pkl')
 
 
 def pull_all(home, away):
@@ -23,8 +21,8 @@ def pull_all(home, away):
     # cur.execute("CREATE TABLE home(pppctg, pkpctg, shots, shotsallowed, faceofpctg, shootingpctg, savepctg)")
     # cur.execute("CREATE TABLE away(pppctg, pkpctg, shots, shotsallowed, faceofpctg, shootingpctg, savepctg)")
     # cur.execute("CREATE TABLE results(results)")
-    X = pd.read_csv('C:/Users/fenwa/Desktop/Git/HockeyTradeProject/Resources/X.csv', index_col=1)
-    team_info_df = pd.read_csv('C:/Users/fenwa/Desktop/Git/HockeyTradeProject/Resources/team_info.csv', index_col=1)
+    X = pd.read_csv(filename1, index_col=1)
+    team_info_df = pd.read_csv(filename2, index_col=1)
     team_info_df['teamName'] = team_info_df['shortName'] + " " + team_info_df['teamName']
     url = "https://statsapi.web.nhl.com/api/v1/teams"
     #scraping our own website for ids - is this the right way to do it?
@@ -89,7 +87,7 @@ def pull_all(home, away):
     compiled_stats_df = pd.concat([home_df,away_df],axis=1)
     scaler = MinMaxScaler().fit(X)
     compiled_scaled_df = pd.DataFrame(scaler.transform(compiled_stats_df),columns = compiled_stats_df.columns)
-    with open('C:/Users/fenwa/Desktop/Git/HockeyTradeProject/Resources/HockeyMLmodel.pkl', 'rb') as f:
+    with open(filename3, 'rb') as f:
         clf2 = pickle.load(f)
         results = clf2.predict(compiled_scaled_df[0:1])
         if results[0] == "0":
@@ -100,7 +98,4 @@ def pull_all(home, away):
     # cur.execute(f"INSERT INTO results VALUES {results}")
     # con.commit()
     return home_df, away_df, results
-
-home_df, away_df, results = pull_all("Boston Bruins", "New Jersey Devils")
-print(home_df, away_df, results)
 
