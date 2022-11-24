@@ -78,6 +78,7 @@ Game and team statistics used to develop our machine learning model:
    - Removing unnecessary data: 
         -    Goals for home/away have been removed due to being too strong
         -    The API call also had the result which obviously needed to be removed as well
+   - We first were attemnpting a linear regression but then decided a Logisistic Regression would be a better choice.
     
 ## Data sources: 
 For this project we were able to find a dataset from Kaggle which contains team statistics for NHL teams dating back to the 2013 season. This dataset will give us a solid base of current NHL performance. Roster information is not included. In addition to the team stats, for expected game outcomes, we are using NHL.com's API which gives us a breakdown of every game up until the present day.
