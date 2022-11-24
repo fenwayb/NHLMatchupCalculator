@@ -89,12 +89,11 @@ def pull_all(home, away):
     compiled_scaled_df = pd.DataFrame(scaler.transform(compiled_stats_df),columns = compiled_stats_df.columns)
     with open(filename3, 'rb') as f:
         clf2 = pickle.load(f)
-        results = clf2.predict(compiled_scaled_df[0:1])
-        if results[0] == "0":
-            results = away_name
-        else:
-            results = home_name
-    
+        resultsintomodel = clf2.predict(compiled_scaled_df[0:1])
+    if resultsintomodel[0] == 0:
+        results = away_name
+    elif resultsintomodel[0] == 1:
+        results = home_name
     # cur.execute(f"INSERT INTO results VALUES {results}")
     # con.commit()
     return home_df, home_name, away_df, away_name, results
