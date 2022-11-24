@@ -2,8 +2,6 @@
 
 A machine learning model to predict National Hockey League game outcomes based upon current season stats compared with 10+ years of past seasons of team data.
 
-#Link to interactive website
-
 
 ## Why would predicting NHL games be interesting you ask?
 The group of us first got together on the basis that we wanted to investigate data in the sports realm and as the 2022 NHL season is now underway, we decided that hockey would be our winner. Hockey is a sport filled with data from team overall stats to individual performance measures like actual time on the ice and plus-minus which measures the net outcome of a team's goal differential when a certain player is on the ice. We decided on building a Win/Loss predictor model as the group thought it would be a fun and informative new method to appreciate both the consistency and randomness of the sport.
@@ -57,9 +55,9 @@ Game and team statistics used to develop our machine learning model:
 
 ## Outline of the Project
 1. Identifying our datasource
-    - Link to Kaggle Dataset: ["NHL Game Data"](https://www.kaggle.com/datasets/martinellis/nhl-game-data)
+    - Link to Kaggle Dataset: [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data)
     - Description: The data represents all the official metrics measured for each game in the NHL in the past 10 years. The dataset consists of 26000+ game outcomes with stats from each team separately, yielding over 50,000 rows of data.
-    - Link to NHL API: ["NHL API"](https://statsapi.web.nhl.com/api/v1/teams/1/stats/)
+    - Link to NHL API: [NHL API](https://statsapi.web.nhl.com/api/v1/teams/1/stats/)
     - Description: The NHL.com API gives live, up-to date statistics in a variety of categories such as Powerplay %, Face-off %, and Save % among others. This API matches our team IDs from the Kaggle set in order to start aligning our data.
     
 2. Selected Topic: 
@@ -78,7 +76,8 @@ Game and team statistics used to develop our machine learning model:
    - Dropped null values and replaced them with the means of each category
    - Further data cleaning looking at extremes of each feature and deciding whether to wipe out data or other action
    - Removing unnecessary data: 
-   -    Goals for home/away have been removed due to being too strong
+        -    Goals for home/away have been removed due to being too strong
+        -    The API call also had the result which obviously needed to be removed as well
     
 ## Data sources: 
 For this project we were able to find a dataset from Kaggle which contains team statistics for NHL teams dating back to the 2013 season. This dataset will give us a solid base of current NHL performance. Roster information is not included. In addition to the team stats, for expected game outcomes, we are using NHL.com's API which gives us a breakdown of every game up until the present day.
@@ -86,4 +85,4 @@ For this project we were able to find a dataset from Kaggle which contains team 
 
     
 ## Google Slide Presentation Link
-["NHL Matchup Predictor"](https://docs.google.com/presentation/d/1n26DlacRmt59Nclu4okSfw0Xp7RwWT2tLPq71vet0VU/edit#slide=id.g18e76bc0ad7_0_10)
+[NHL Matchup Predictor](https://docs.google.com/presentation/d/1n26DlacRmt59Nclu4okSfw0Xp7RwWT2tLPq71vet0VU/edit#slide=id.g18e76bc0ad7_0_10)
